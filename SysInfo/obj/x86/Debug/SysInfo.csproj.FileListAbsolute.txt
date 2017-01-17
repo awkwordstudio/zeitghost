@@ -1,0 +1,179 @@
+c:\users\sagar\documents\visual studio 2010\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.Properties.Resources.resources
+c:\users\sagar\documents\visual studio 2010\Projects\SysInfo\SysInfo\bin\Debug\SysInfo.exe
+c:\users\sagar\documents\visual studio 2010\Projects\SysInfo\SysInfo\bin\Debug\SysInfo.pdb
+c:\users\sagar\documents\visual studio 2010\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.exe
+c:\users\sagar\documents\visual studio 2010\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.pdb
+C:\Users\SAGAR\Documents\Visual Studio 2010\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.Process_Info.resources
+C:\Users\SAGAR\Documents\Visual Studio 2010\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.Main_Form.resources
+C:\Users\SAGAR\Documents\Visual Studio 2010\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.key_logger.resources
+C:\Users\SAGAR\Documents\Visual Studio 2010\Projects\SysInfo\SysInfo\bin\Debug\SysInfo.exe.config
+C:\Users\SAGAR\Documents\Visual Studio 2010\Projects\SysInfo\SysInfo\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+C:\Users\SAGAR\Documents\Visual Studio 2010\Projects\SysInfo\SysInfo\bin\Debug\office.dll
+C:\Users\SAGAR\Documents\Visual Studio 2010\Projects\SysInfo\SysInfo\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+C:\Users\SAGAR\Documents\Visual Studio 2010\Projects\SysInfo\SysInfo\bin\Debug\office.xml
+C:\Users\SAGAR\Documents\Visual Studio 2010\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.csproj.GenerateResource.Cache
+C:\Users\SAGAR\Documents\Visual Studio 2010\Projects\SysInfo\SysInfo\bin\Debug\System.Data.SQLite.dll
+C:\Users\SAGAR\Documents\Visual Studio 2012\Projects\SysInfo\SysInfo\bin\Debug\SysInfo.exe.config
+C:\Users\SAGAR\Documents\Visual Studio 2012\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.exe
+C:\Users\SAGAR\Documents\Visual Studio 2012\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.pdb
+C:\Users\SAGAR\Documents\Visual Studio 2012\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.csprojResolveAssemblyReference.cache
+C:\Users\SAGAR\Documents\Visual Studio 2012\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.key_logger.resources
+C:\Users\SAGAR\Documents\Visual Studio 2012\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.Main_Form.resources
+C:\Users\SAGAR\Documents\Visual Studio 2012\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.Process_Info.resources
+C:\Users\SAGAR\Documents\Visual Studio 2012\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.Properties.Resources.resources
+C:\Users\SAGAR\Documents\Visual Studio 2012\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.csproj.GenerateResource.Cache
+C:\Users\SAGAR\Documents\Visual Studio 2012\Projects\SysInfo\SysInfo\bin\Debug\SysInfo.exe
+C:\Users\SAGAR\Documents\Visual Studio 2012\Projects\SysInfo\SysInfo\bin\Debug\SysInfo.pdb
+C:\Users\SAGAR\Documents\Visual Studio 2012\Projects\SysInfo\SysInfo\bin\Debug\Microsoft.Office.Interop.Outlook.dll
+C:\Users\SAGAR\Documents\Visual Studio 2012\Projects\SysInfo\SysInfo\bin\Debug\office.dll
+C:\Users\SAGAR\Documents\Visual Studio 2012\Projects\SysInfo\SysInfo\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+C:\Users\SAGAR\Documents\Visual Studio 2012\Projects\SysInfo\SysInfo\bin\Debug\NDde.xml
+C:\Users\SAGAR\Documents\Visual Studio 2012\Projects\SysInfo\SysInfo\bin\Debug\office.xml
+C:\Users\SAGAR\Documents\Visual Studio 2012\Projects\SysInfo\SysInfo\obj\x86\Debug\Interop.SHDocVw.dll
+C:\Users\SAGAR\Documents\Visual Studio 2012\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.csproj.ResolveComReference.cache
+C:\Users\SAGAR\Documents\Visual Studio 2012\Projects\SysInfo\SysInfo\obj\x86\Debug\Interop.ADOX.dll
+C:\Users\avina_000\Desktop\SysInfo\SysInfo\bin\Debug\SysInfo.exe.config
+C:\Users\avina_000\Desktop\SysInfo\SysInfo\obj\x86\Debug\Interop.ADOX.dll
+C:\Users\avina_000\Desktop\SysInfo\SysInfo\obj\x86\Debug\Interop.SHDocVw.dll
+C:\Users\avina_000\Desktop\SysInfo\SysInfo\obj\x86\Debug\SysInfo.csproj.ResolveComReference.cache
+C:\Users\avina_000\Desktop\SysInfo\SysInfo\obj\x86\Debug\SysInfo.exe
+C:\Users\avina_000\Desktop\SysInfo\SysInfo\obj\x86\Debug\SysInfo.pdb
+C:\Users\avina_000\Desktop\SysInfo\SysInfo\bin\Debug\SysInfo.exe
+C:\Users\avina_000\Desktop\SysInfo\SysInfo\bin\Debug\SysInfo.pdb
+C:\Users\avina_000\Desktop\SysInfo\SysInfo\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\avina_000\Desktop\SysInfo\SysInfo\bin\Debug\stdole.dll
+C:\Users\avina_000\Desktop\SysInfo\SysInfo\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\avina_000\Desktop\SysInfo\SysInfo\obj\x86\Debug\SysInfo.key_logger.resources
+C:\Users\avina_000\Desktop\SysInfo\SysInfo\obj\x86\Debug\SysInfo.Main_Form.resources
+C:\Users\avina_000\Desktop\SysInfo\SysInfo\obj\x86\Debug\SysInfo.Process_Info.resources
+C:\Users\avina_000\Desktop\SysInfo\SysInfo\obj\x86\Debug\SysInfo.Properties.Resources.resources
+C:\Users\avina_000\Desktop\SysInfo\SysInfo\obj\x86\Debug\SysInfo.csproj.GenerateResource.Cache
+C:\Users\avina_000\Desktop\SysInfo\SysInfo\bin\Debug\Database1.mdf
+C:\Users\avina_000\Desktop\SysInfo\SysInfo\bin\Debug\Database1_log.ldf
+C:\Users\avina_000\Desktop\SysInfo\SysInfo\obj\x86\Debug\SysInfo.csprojResolveAssemblyReference.cache
+C:\Users\avina_000\Desktop\windowsmonitor\SysInfo\SysInfo\bin\Debug\SysInfo.exe.config
+C:\Users\avina_000\Desktop\windowsmonitor\SysInfo\SysInfo\obj\x86\Debug\Interop.ADOX.dll
+C:\Users\avina_000\Desktop\windowsmonitor\SysInfo\SysInfo\obj\x86\Debug\Interop.SHDocVw.dll
+C:\Users\avina_000\Desktop\windowsmonitor\SysInfo\SysInfo\obj\x86\Debug\SysInfo.csproj.ResolveComReference.cache
+C:\Users\avina_000\Desktop\windowsmonitor\SysInfo\SysInfo\obj\x86\Debug\SysInfo.exe
+C:\Users\avina_000\Desktop\windowsmonitor\SysInfo\SysInfo\obj\x86\Debug\SysInfo.pdb
+C:\Users\avina_000\Desktop\windowsmonitor\SysInfo\SysInfo\bin\Debug\SysInfo.exe
+C:\Users\avina_000\Desktop\windowsmonitor\SysInfo\SysInfo\bin\Debug\SysInfo.pdb
+C:\Users\avina_000\Desktop\windowsmonitor\SysInfo\SysInfo\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\avina_000\Desktop\windowsmonitor\SysInfo\SysInfo\bin\Debug\stdole.dll
+C:\Users\avina_000\Desktop\windowsmonitor\SysInfo\SysInfo\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\avina_000\Desktop\windowsmonitor\SysInfo\SysInfo\obj\x86\Debug\SysInfo.key_logger.resources
+C:\Users\avina_000\Desktop\windowsmonitor\SysInfo\SysInfo\obj\x86\Debug\SysInfo.Main_Form.resources
+C:\Users\avina_000\Desktop\windowsmonitor\SysInfo\SysInfo\obj\x86\Debug\SysInfo.Process_Info.resources
+C:\Users\avina_000\Desktop\windowsmonitor\SysInfo\SysInfo\obj\x86\Debug\SysInfo.Properties.Resources.resources
+C:\Users\avina_000\Desktop\windowsmonitor\SysInfo\SysInfo\obj\x86\Debug\SysInfo.csproj.GenerateResource.Cache
+C:\Users\SAGAR\Documents\SysInfo\SysInfo\bin\Debug\SysInfo.exe.config
+C:\Users\SAGAR\Documents\SysInfo\SysInfo\obj\x86\Debug\Interop.ADOX.dll
+C:\Users\SAGAR\Documents\SysInfo\SysInfo\obj\x86\Debug\Interop.SHDocVw.dll
+C:\Users\SAGAR\Documents\SysInfo\SysInfo\obj\x86\Debug\SysInfo.csproj.ResolveComReference.cache
+C:\Users\SAGAR\Documents\SysInfo\SysInfo\obj\x86\Debug\SysInfo.exe
+C:\Users\SAGAR\Documents\SysInfo\SysInfo\obj\x86\Debug\SysInfo.pdb
+C:\Users\SAGAR\Documents\SysInfo\SysInfo\bin\Debug\SysInfo.exe
+C:\Users\SAGAR\Documents\SysInfo\SysInfo\bin\Debug\SysInfo.pdb
+C:\Users\SAGAR\Documents\SysInfo\SysInfo\bin\Debug\stdole.dll
+C:\Users\SAGAR\Documents\SysInfo\SysInfo\bin\Debug\office.dll
+C:\Users\SAGAR\Documents\SysInfo\SysInfo\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+C:\Users\SAGAR\Documents\SysInfo\SysInfo\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\SAGAR\Documents\SysInfo\SysInfo\bin\Debug\office.xml
+C:\Users\SAGAR\Documents\SysInfo\SysInfo\obj\x86\Debug\SysInfo.csprojResolveAssemblyReference.cache
+C:\Users\SAGAR\Documents\SysInfo\SysInfo\obj\x86\Debug\SysInfo.key_logger.resources
+C:\Users\SAGAR\Documents\SysInfo\SysInfo\obj\x86\Debug\SysInfo.Main_Form.resources
+C:\Users\SAGAR\Documents\SysInfo\SysInfo\obj\x86\Debug\SysInfo.Process_Info.resources
+C:\Users\SAGAR\Documents\SysInfo\SysInfo\obj\x86\Debug\SysInfo.Properties.Resources.resources
+C:\Users\SAGAR\Documents\SysInfo\SysInfo\obj\x86\Debug\SysInfo.csproj.GenerateResource.Cache
+C:\Users\SAGAR\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\bin\Debug\SysInfo.exe.config
+C:\Users\SAGAR\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\obj\x86\Debug\Interop.ADOX.dll
+C:\Users\SAGAR\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\obj\x86\Debug\Interop.SHDocVw.dll
+C:\Users\SAGAR\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.csproj.ResolveComReference.cache
+C:\Users\SAGAR\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.exe
+C:\Users\SAGAR\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.pdb
+C:\Users\SAGAR\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\bin\Debug\SysInfo.exe
+C:\Users\SAGAR\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\bin\Debug\SysInfo.pdb
+C:\Users\SAGAR\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\bin\Debug\stdole.dll
+C:\Users\SAGAR\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\bin\Debug\office.dll
+C:\Users\SAGAR\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+C:\Users\SAGAR\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\SAGAR\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\bin\Debug\office.xml
+C:\Users\SAGAR\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.csprojResolveAssemblyReference.cache
+C:\Users\SAGAR\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.key_logger.resources
+C:\Users\SAGAR\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.Main_Form.resources
+C:\Users\SAGAR\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.Process_Info.resources
+C:\Users\SAGAR\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.Properties.Resources.resources
+C:\Users\SAGAR\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.csproj.GenerateResource.Cache
+C:\Users\avina_000\Desktop\windowsmonitor\SysInfo\SysInfo\obj\x86\Debug\SysInfo.csprojResolveAssemblyReference.cache
+C:\Users\avina_000\Desktop\windowsmonitor\17Dec\SysInfo\bin\Debug\SysInfo.exe.config
+C:\Users\avina_000\Desktop\windowsmonitor\17Dec\SysInfo\obj\x86\Debug\Interop.ADOX.dll
+C:\Users\avina_000\Desktop\windowsmonitor\17Dec\SysInfo\obj\x86\Debug\Interop.SHDocVw.dll
+C:\Users\avina_000\Desktop\windowsmonitor\17Dec\SysInfo\obj\x86\Debug\SysInfo.csproj.ResolveComReference.cache
+C:\Users\avina_000\Desktop\windowsmonitor\17Dec\SysInfo\obj\x86\Debug\SysInfo.exe
+C:\Users\avina_000\Desktop\windowsmonitor\17Dec\SysInfo\obj\x86\Debug\SysInfo.pdb
+C:\Users\avina_000\Desktop\windowsmonitor\17Dec\SysInfo\bin\Debug\SysInfo.exe
+C:\Users\avina_000\Desktop\windowsmonitor\17Dec\SysInfo\bin\Debug\SysInfo.pdb
+C:\Users\avina_000\Desktop\windowsmonitor\17Dec\SysInfo\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\avina_000\Desktop\windowsmonitor\17Dec\SysInfo\bin\Debug\stdole.dll
+C:\Users\avina_000\Desktop\windowsmonitor\17Dec\SysInfo\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\avina_000\Desktop\windowsmonitor\17Dec\SysInfo\obj\x86\Debug\SysInfo.csprojResolveAssemblyReference.cache
+C:\Users\avina_000\Desktop\windowsmonitor\17Dec\SysInfo\obj\x86\Debug\SysInfo.key_logger.resources
+C:\Users\avina_000\Desktop\windowsmonitor\17Dec\SysInfo\obj\x86\Debug\SysInfo.Main_Form.resources
+C:\Users\avina_000\Desktop\windowsmonitor\17Dec\SysInfo\obj\x86\Debug\SysInfo.Process_Info.resources
+C:\Users\avina_000\Desktop\windowsmonitor\17Dec\SysInfo\obj\x86\Debug\SysInfo.Properties.Resources.resources
+C:\Users\avina_000\Desktop\windowsmonitor\17Dec\SysInfo\obj\x86\Debug\SysInfo.csproj.GenerateResource.Cache
+F:\Sagar\25Dec\SysInfo\SysInfo\bin\Debug\SysInfo.exe.config
+F:\Sagar\25Dec\SysInfo\SysInfo\obj\x86\Debug\Interop.ADOX.dll
+F:\Sagar\25Dec\SysInfo\SysInfo\obj\x86\Debug\Interop.SHDocVw.dll
+F:\Sagar\25Dec\SysInfo\SysInfo\obj\x86\Debug\SysInfo.csproj.ResolveComReference.cache
+F:\Sagar\25Dec\SysInfo\SysInfo\obj\x86\Debug\SysInfo.exe
+F:\Sagar\25Dec\SysInfo\SysInfo\obj\x86\Debug\SysInfo.pdb
+F:\Sagar\25Dec\SysInfo\SysInfo\bin\Debug\SysInfo.exe
+F:\Sagar\25Dec\SysInfo\SysInfo\bin\Debug\SysInfo.pdb
+F:\Sagar\25Dec\SysInfo\SysInfo\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+F:\Sagar\25Dec\SysInfo\SysInfo\bin\Debug\stdole.dll
+F:\Sagar\25Dec\SysInfo\SysInfo\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+F:\Sagar\25Dec\SysInfo\SysInfo\obj\x86\Debug\SysInfo.csprojResolveAssemblyReference.cache
+F:\Sagar\25Dec\SysInfo\SysInfo\obj\x86\Debug\SysInfo.key_logger.resources
+F:\Sagar\25Dec\SysInfo\SysInfo\obj\x86\Debug\SysInfo.Main_Form.resources
+F:\Sagar\25Dec\SysInfo\SysInfo\obj\x86\Debug\SysInfo.Process_Info.resources
+F:\Sagar\25Dec\SysInfo\SysInfo\obj\x86\Debug\SysInfo.Properties.Resources.resources
+F:\Sagar\25Dec\SysInfo\SysInfo\obj\x86\Debug\SysInfo.csproj.GenerateResource.Cache
+C:\Users\Sonali\Documents\Visual Studio 2012\Projects\SysInfo\SysInfo\bin\Debug\SysInfo.exe.config
+C:\Users\Sonali\Documents\Visual Studio 2012\Projects\SysInfo\SysInfo\obj\x86\Debug\Interop.ADOX.dll
+C:\Users\Sonali\Documents\Visual Studio 2012\Projects\SysInfo\SysInfo\obj\x86\Debug\Interop.SHDocVw.dll
+C:\Users\Sonali\Documents\Visual Studio 2012\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.csproj.ResolveComReference.cache
+C:\Users\Sonali\Documents\Visual Studio 2012\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.exe
+C:\Users\Sonali\Documents\Visual Studio 2012\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.pdb
+C:\Users\Sonali\Documents\Visual Studio 2012\Projects\SysInfo\SysInfo\bin\Debug\SysInfo.exe
+C:\Users\Sonali\Documents\Visual Studio 2012\Projects\SysInfo\SysInfo\bin\Debug\SysInfo.pdb
+C:\Users\Sonali\Documents\Visual Studio 2012\Projects\SysInfo\SysInfo\bin\Debug\office.dll
+C:\Users\Sonali\Documents\Visual Studio 2012\Projects\SysInfo\SysInfo\bin\Debug\Microsoft.Office.Interop.Outlook.xml
+C:\Users\Sonali\Documents\Visual Studio 2012\Projects\SysInfo\SysInfo\bin\Debug\office.xml
+C:\Users\Sonali\Documents\Visual Studio 2012\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.csprojResolveAssemblyReference.cache
+C:\Users\Sonali\Documents\Visual Studio 2012\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.key_logger.resources
+C:\Users\Sonali\Documents\Visual Studio 2012\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.Main_Form.resources
+C:\Users\Sonali\Documents\Visual Studio 2012\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.Process_Info.resources
+C:\Users\Sonali\Documents\Visual Studio 2012\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.Properties.Resources.resources
+C:\Users\Sonali\Documents\Visual Studio 2012\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.csproj.GenerateResource.Cache
+C:\Users\Sonali\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\bin\Debug\SysInfo.exe.config
+C:\Users\Sonali\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\obj\x86\Debug\Interop.ADOX.dll
+C:\Users\Sonali\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\obj\x86\Debug\Interop.SHDocVw.dll
+C:\Users\Sonali\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.csproj.ResolveComReference.cache
+C:\Users\Sonali\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.exe
+C:\Users\Sonali\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.pdb
+C:\Users\Sonali\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\bin\Debug\SysInfo.exe
+C:\Users\Sonali\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\bin\Debug\SysInfo.pdb
+C:\Users\Sonali\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Sonali\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\bin\Debug\stdole.dll
+C:\Users\Sonali\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\Sonali\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.csprojResolveAssemblyReference.cache
+C:\Users\Sonali\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.key_logger.resources
+C:\Users\Sonali\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.Main_Form.resources
+C:\Users\Sonali\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.Process_Info.resources
+C:\Users\Sonali\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.Properties.Resources.resources
+C:\Users\Sonali\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.csproj.GenerateResource.Cache
+C:\Users\Sonali\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.Feed.resources
+C:\Users\Sonali\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.project.resources
+C:\Users\Sonali\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.Setup.resources
