@@ -30,77 +30,77 @@
         {
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Main_Form));
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea19 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Series series21 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Title title12 = new System.Windows.Forms.DataVisualization.Charting.Title();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea20 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend13 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series22 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Title title13 = new System.Windows.Forms.DataVisualization.Charting.Title();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea21 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Series series23 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Title title14 = new System.Windows.Forms.DataVisualization.Charting.Title();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea22 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend14 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.LegendItem legendItem11 = new System.Windows.Forms.DataVisualization.Charting.LegendItem();
-            System.Windows.Forms.DataVisualization.Charting.LegendItem legendItem12 = new System.Windows.Forms.DataVisualization.Charting.LegendItem();
-            System.Windows.Forms.DataVisualization.Charting.Series series24 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Title title15 = new System.Windows.Forms.DataVisualization.Charting.Title();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea23 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend15 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.LegendItem legendItem13 = new System.Windows.Forms.DataVisualization.Charting.LegendItem();
-            System.Windows.Forms.DataVisualization.Charting.LegendItem legendItem14 = new System.Windows.Forms.DataVisualization.Charting.LegendItem();
-            System.Windows.Forms.DataVisualization.Charting.Series series25 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Title title16 = new System.Windows.Forms.DataVisualization.Charting.Title();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea24 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend16 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.LegendItem legendItem15 = new System.Windows.Forms.DataVisualization.Charting.LegendItem();
-            System.Windows.Forms.DataVisualization.Charting.LegendItem legendItem16 = new System.Windows.Forms.DataVisualization.Charting.LegendItem();
-            System.Windows.Forms.DataVisualization.Charting.Series series26 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Title title17 = new System.Windows.Forms.DataVisualization.Charting.Title();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea25 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend17 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.LegendItem legendItem17 = new System.Windows.Forms.DataVisualization.Charting.LegendItem();
-            System.Windows.Forms.DataVisualization.Charting.LegendItem legendItem18 = new System.Windows.Forms.DataVisualization.Charting.LegendItem();
-            System.Windows.Forms.DataVisualization.Charting.Series series27 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Title title18 = new System.Windows.Forms.DataVisualization.Charting.Title();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea26 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend18 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.LegendItem legendItem19 = new System.Windows.Forms.DataVisualization.Charting.LegendItem();
-            System.Windows.Forms.DataVisualization.Charting.LegendItem legendItem20 = new System.Windows.Forms.DataVisualization.Charting.LegendItem();
-            System.Windows.Forms.DataVisualization.Charting.Series series28 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Title title19 = new System.Windows.Forms.DataVisualization.Charting.Title();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea27 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend19 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series29 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea28 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend20 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series30 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea29 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend21 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series31 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea30 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend22 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series32 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea31 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend23 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series33 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea32 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend24 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series34 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea33 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea34 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Series series35 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Series series36 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Title title20 = new System.Windows.Forms.DataVisualization.Charting.Title();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea35 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Series series37 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Title title21 = new System.Windows.Forms.DataVisualization.Charting.Title();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea36 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Series series38 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Series series39 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Series series40 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Title title22 = new System.Windows.Forms.DataVisualization.Charting.Title();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea55 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Series series61 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Title title34 = new System.Windows.Forms.DataVisualization.Charting.Title();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea56 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend37 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series62 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Title title35 = new System.Windows.Forms.DataVisualization.Charting.Title();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea57 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Series series63 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Title title36 = new System.Windows.Forms.DataVisualization.Charting.Title();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea58 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend38 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.LegendItem legendItem31 = new System.Windows.Forms.DataVisualization.Charting.LegendItem();
+            System.Windows.Forms.DataVisualization.Charting.LegendItem legendItem32 = new System.Windows.Forms.DataVisualization.Charting.LegendItem();
+            System.Windows.Forms.DataVisualization.Charting.Series series64 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Title title37 = new System.Windows.Forms.DataVisualization.Charting.Title();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea59 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend39 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.LegendItem legendItem33 = new System.Windows.Forms.DataVisualization.Charting.LegendItem();
+            System.Windows.Forms.DataVisualization.Charting.LegendItem legendItem34 = new System.Windows.Forms.DataVisualization.Charting.LegendItem();
+            System.Windows.Forms.DataVisualization.Charting.Series series65 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Title title38 = new System.Windows.Forms.DataVisualization.Charting.Title();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea60 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend40 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.LegendItem legendItem35 = new System.Windows.Forms.DataVisualization.Charting.LegendItem();
+            System.Windows.Forms.DataVisualization.Charting.LegendItem legendItem36 = new System.Windows.Forms.DataVisualization.Charting.LegendItem();
+            System.Windows.Forms.DataVisualization.Charting.Series series66 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Title title39 = new System.Windows.Forms.DataVisualization.Charting.Title();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea61 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend41 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.LegendItem legendItem37 = new System.Windows.Forms.DataVisualization.Charting.LegendItem();
+            System.Windows.Forms.DataVisualization.Charting.LegendItem legendItem38 = new System.Windows.Forms.DataVisualization.Charting.LegendItem();
+            System.Windows.Forms.DataVisualization.Charting.Series series67 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Title title40 = new System.Windows.Forms.DataVisualization.Charting.Title();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea62 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend42 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.LegendItem legendItem39 = new System.Windows.Forms.DataVisualization.Charting.LegendItem();
+            System.Windows.Forms.DataVisualization.Charting.LegendItem legendItem40 = new System.Windows.Forms.DataVisualization.Charting.LegendItem();
+            System.Windows.Forms.DataVisualization.Charting.Series series68 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Title title41 = new System.Windows.Forms.DataVisualization.Charting.Title();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea63 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend43 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series69 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea64 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend44 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series70 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea65 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend45 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series71 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea66 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend46 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series72 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea67 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend47 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series73 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea68 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend48 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series74 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea69 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea70 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Series series75 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Series series76 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Title title42 = new System.Windows.Forms.DataVisualization.Charting.Title();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea71 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Series series77 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Title title43 = new System.Windows.Forms.DataVisualization.Charting.Title();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea72 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Series series78 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Series series79 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Series series80 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Title title44 = new System.Windows.Forms.DataVisualization.Charting.Title();
             this._pnl_main = new System.Windows.Forms.Panel();
             this._lblMonth = new System.Windows.Forms.Label();
             this._lblWeek = new System.Windows.Forms.Label();
@@ -119,6 +119,15 @@
             this._ptr_calender = new System.Windows.Forms.PictureBox();
             this._ptr_mail_box = new System.Windows.Forms.PictureBox();
             this._pnlHome = new System.Windows.Forms.Panel();
+            this._pnl_Login = new System.Windows.Forms.Panel();
+            this.btnForgot = new System.Windows.Forms.Button();
+            this.btnSignUp = new System.Windows.Forms.Button();
+            this.btnSignIn = new System.Windows.Forms.Button();
+            this.txtPass = new System.Windows.Forms.TextBox();
+            this.txtUsername = new System.Windows.Forms.TextBox();
+            this.lblPassword = new System.Windows.Forms.Label();
+            this.lblUsername = new System.Windows.Forms.Label();
+            this.lblProject = new System.Windows.Forms.Label();
             this.panel5 = new System.Windows.Forms.Panel();
             this.btnsetup = new System.Windows.Forms.Button();
             this.btntutorial = new System.Windows.Forms.Button();
@@ -249,6 +258,7 @@
             ((System.ComponentModel.ISupportInitialize)(this._ptr_calender)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this._ptr_mail_box)).BeginInit();
             this._pnlHome.SuspendLayout();
+            this._pnl_Login.SuspendLayout();
             this.panel5.SuspendLayout();
             this.panel_welcome.SuspendLayout();
             this.panel_agree.SuspendLayout();
@@ -536,6 +546,7 @@
             // _pnlHome
             // 
             this._pnlHome.BackColor = System.Drawing.Color.Transparent;
+            this._pnlHome.Controls.Add(this._pnl_Login);
             this._pnlHome.Controls.Add(this.panel5);
             this._pnlHome.Controls.Add(this.panel_welcome);
             this._pnlHome.Controls.Add(this.panel_agree);
@@ -547,6 +558,103 @@
             this._pnlHome.Name = "_pnlHome";
             this._pnlHome.Size = new System.Drawing.Size(1280, 685);
             this._pnlHome.TabIndex = 13;
+            // 
+            // _pnl_Login
+            // 
+            this._pnl_Login.Controls.Add(this.btnForgot);
+            this._pnl_Login.Controls.Add(this.btnSignUp);
+            this._pnl_Login.Controls.Add(this.btnSignIn);
+            this._pnl_Login.Controls.Add(this.txtPass);
+            this._pnl_Login.Controls.Add(this.txtUsername);
+            this._pnl_Login.Controls.Add(this.lblPassword);
+            this._pnl_Login.Controls.Add(this.lblUsername);
+            this._pnl_Login.Controls.Add(this.lblProject);
+            this._pnl_Login.Location = new System.Drawing.Point(3, 5);
+            this._pnl_Login.Name = "_pnl_Login";
+            this._pnl_Login.Size = new System.Drawing.Size(1185, 677);
+            this._pnl_Login.TabIndex = 11;
+            // 
+            // btnForgot
+            // 
+            this.btnForgot.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnForgot.Location = new System.Drawing.Point(413, 450);
+            this.btnForgot.Name = "btnForgot";
+            this.btnForgot.Size = new System.Drawing.Size(193, 35);
+            this.btnForgot.TabIndex = 7;
+            this.btnForgot.Text = "Forgot Password";
+            this.btnForgot.UseVisualStyleBackColor = true;
+            // 
+            // btnSignUp
+            // 
+            this.btnSignUp.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSignUp.Location = new System.Drawing.Point(441, 392);
+            this.btnSignUp.Name = "btnSignUp";
+            this.btnSignUp.Size = new System.Drawing.Size(144, 36);
+            this.btnSignUp.TabIndex = 6;
+            this.btnSignUp.Text = "Sign Up/Register";
+            this.btnSignUp.UseVisualStyleBackColor = true;
+            this.btnSignUp.Click += new System.EventHandler(this.btnSignUp_Click);
+            // 
+            // btnSignIn
+            // 
+            this.btnSignIn.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSignIn.Location = new System.Drawing.Point(465, 294);
+            this.btnSignIn.Name = "btnSignIn";
+            this.btnSignIn.Size = new System.Drawing.Size(102, 35);
+            this.btnSignIn.TabIndex = 5;
+            this.btnSignIn.Text = "Sign In";
+            this.btnSignIn.UseVisualStyleBackColor = true;
+            this.btnSignIn.Click += new System.EventHandler(this.btnSignIn_Click);
+            // 
+            // txtPass
+            // 
+            this.txtPass.BackColor = System.Drawing.Color.DarkGray;
+            this.txtPass.ForeColor = System.Drawing.Color.White;
+            this.txtPass.Location = new System.Drawing.Point(429, 226);
+            this.txtPass.Name = "txtPass";
+            this.txtPass.PasswordChar = '*';
+            this.txtPass.Size = new System.Drawing.Size(226, 20);
+            this.txtPass.TabIndex = 4;
+            // 
+            // txtUsername
+            // 
+            this.txtUsername.BackColor = System.Drawing.Color.DarkGray;
+            this.txtUsername.ForeColor = System.Drawing.Color.White;
+            this.txtUsername.Location = new System.Drawing.Point(429, 183);
+            this.txtUsername.Name = "txtUsername";
+            this.txtUsername.Size = new System.Drawing.Size(226, 20);
+            this.txtUsername.TabIndex = 3;
+            // 
+            // lblPassword
+            // 
+            this.lblPassword.AutoSize = true;
+            this.lblPassword.Font = new System.Drawing.Font("Times New Roman", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblPassword.Location = new System.Drawing.Point(310, 224);
+            this.lblPassword.Name = "lblPassword";
+            this.lblPassword.Size = new System.Drawing.Size(101, 22);
+            this.lblPassword.TabIndex = 2;
+            this.lblPassword.Text = "Password:-";
+            // 
+            // lblUsername
+            // 
+            this.lblUsername.AutoSize = true;
+            this.lblUsername.Font = new System.Drawing.Font("Times New Roman", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblUsername.Location = new System.Drawing.Point(310, 180);
+            this.lblUsername.Name = "lblUsername";
+            this.lblUsername.Size = new System.Drawing.Size(103, 22);
+            this.lblUsername.TabIndex = 1;
+            this.lblUsername.Text = "Username:-";
+            // 
+            // lblProject
+            // 
+            this.lblProject.AutoSize = true;
+            this.lblProject.Font = new System.Drawing.Font("Times New Roman", 30F, ((System.Drawing.FontStyle)(((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic) 
+                | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblProject.Location = new System.Drawing.Point(389, 98);
+            this.lblProject.Name = "lblProject";
+            this.lblProject.Size = new System.Drawing.Size(375, 46);
+            this.lblProject.TabIndex = 0;
+            this.lblProject.Text = "Welcome to Zeitghost";
             // 
             // panel5
             // 
@@ -876,6 +984,7 @@
             this.txtfinalpwd.ForeColor = System.Drawing.SystemColors.Window;
             this.txtfinalpwd.Location = new System.Drawing.Point(4, 245);
             this.txtfinalpwd.Name = "txtfinalpwd";
+            this.txtfinalpwd.PasswordChar = '*';
             this.txtfinalpwd.Size = new System.Drawing.Size(190, 20);
             this.txtfinalpwd.TabIndex = 8;
             // 
@@ -885,6 +994,7 @@
             this.txtpassword.ForeColor = System.Drawing.SystemColors.Window;
             this.txtpassword.Location = new System.Drawing.Point(3, 125);
             this.txtpassword.Name = "txtpassword";
+            this.txtpassword.PasswordChar = '*';
             this.txtpassword.Size = new System.Drawing.Size(188, 20);
             this.txtpassword.TabIndex = 7;
             // 
@@ -894,6 +1004,7 @@
             this.txtconfirmpwd.ForeColor = System.Drawing.SystemColors.Window;
             this.txtconfirmpwd.Location = new System.Drawing.Point(4, 179);
             this.txtconfirmpwd.Name = "txtconfirmpwd";
+            this.txtconfirmpwd.PasswordChar = '*';
             this.txtconfirmpwd.Size = new System.Drawing.Size(188, 20);
             this.txtconfirmpwd.TabIndex = 6;
             // 
@@ -1025,37 +1136,37 @@
             // 
             // _grpMostCommonAtt
             // 
-            chartArea19.AlignmentOrientation = System.Windows.Forms.DataVisualization.Charting.AreaAlignmentOrientations.Horizontal;
-            chartArea19.CursorX.IntervalOffsetType = System.Windows.Forms.DataVisualization.Charting.DateTimeIntervalType.Number;
-            chartArea19.CursorX.IntervalType = System.Windows.Forms.DataVisualization.Charting.DateTimeIntervalType.Number;
-            chartArea19.CursorX.LineColor = System.Drawing.Color.DarkSalmon;
-            chartArea19.Name = "ChartArea1";
-            this._grpMostCommonAtt.ChartAreas.Add(chartArea19);
+            chartArea55.AlignmentOrientation = System.Windows.Forms.DataVisualization.Charting.AreaAlignmentOrientations.Horizontal;
+            chartArea55.CursorX.IntervalOffsetType = System.Windows.Forms.DataVisualization.Charting.DateTimeIntervalType.Number;
+            chartArea55.CursorX.IntervalType = System.Windows.Forms.DataVisualization.Charting.DateTimeIntervalType.Number;
+            chartArea55.CursorX.LineColor = System.Drawing.Color.DarkSalmon;
+            chartArea55.Name = "ChartArea1";
+            this._grpMostCommonAtt.ChartAreas.Add(chartArea55);
             this._grpMostCommonAtt.Location = new System.Drawing.Point(5, 70);
             this._grpMostCommonAtt.Margin = new System.Windows.Forms.Padding(1);
             this._grpMostCommonAtt.Name = "_grpMostCommonAtt";
             this._grpMostCommonAtt.Padding = new System.Windows.Forms.Padding(1);
             this._grpMostCommonAtt.Palette = System.Windows.Forms.DataVisualization.Charting.ChartColorPalette.EarthTones;
             this._grpMostCommonAtt.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            series21.ChartArea = "ChartArea1";
-            series21.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.StackedBar;
-            series21.CustomProperties = "DrawingStyle=LightToDark";
-            series21.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F);
-            series21.IsValueShownAsLabel = true;
-            series21.IsVisibleInLegend = false;
-            series21.IsXValueIndexed = true;
-            series21.LabelForeColor = System.Drawing.Color.White;
-            series21.Name = "time";
-            series21.XValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Int64;
-            series21.YValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Int64;
-            this._grpMostCommonAtt.Series.Add(series21);
+            series61.ChartArea = "ChartArea1";
+            series61.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.StackedBar;
+            series61.CustomProperties = "DrawingStyle=LightToDark";
+            series61.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F);
+            series61.IsValueShownAsLabel = true;
+            series61.IsVisibleInLegend = false;
+            series61.IsXValueIndexed = true;
+            series61.LabelForeColor = System.Drawing.Color.White;
+            series61.Name = "time";
+            series61.XValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Int64;
+            series61.YValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Int64;
+            this._grpMostCommonAtt.Series.Add(series61);
             this._grpMostCommonAtt.Size = new System.Drawing.Size(403, 281);
             this._grpMostCommonAtt.TabIndex = 4;
-            title12.Alignment = System.Drawing.ContentAlignment.MiddleLeft;
-            title12.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            title12.Name = "Title1";
-            title12.Text = "Most common attended websites";
-            this._grpMostCommonAtt.Titles.Add(title12);
+            title34.Alignment = System.Drawing.ContentAlignment.MiddleLeft;
+            title34.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            title34.Name = "Title1";
+            title34.Text = "Most common attended websites";
+            this._grpMostCommonAtt.Titles.Add(title34);
             // 
             // _lbl_pnl_txt
             // 
@@ -1170,63 +1281,63 @@
             // 
             // main_page_chart_2
             // 
-            chartArea20.Name = "ChartArea1";
-            this.main_page_chart_2.ChartAreas.Add(chartArea20);
-            legend13.Alignment = System.Drawing.StringAlignment.Center;
-            legend13.AutoFitMinFontSize = 6;
-            legend13.Docking = System.Windows.Forms.DataVisualization.Charting.Docking.Bottom;
-            legend13.IsEquallySpacedItems = true;
-            legend13.ItemColumnSpacing = 10;
-            legend13.LegendItemOrder = System.Windows.Forms.DataVisualization.Charting.LegendItemOrder.SameAsSeriesOrder;
-            legend13.Name = "Legend1";
-            legend13.TextWrapThreshold = 20;
-            this.main_page_chart_2.Legends.Add(legend13);
+            chartArea56.Name = "ChartArea1";
+            this.main_page_chart_2.ChartAreas.Add(chartArea56);
+            legend37.Alignment = System.Drawing.StringAlignment.Center;
+            legend37.AutoFitMinFontSize = 6;
+            legend37.Docking = System.Windows.Forms.DataVisualization.Charting.Docking.Bottom;
+            legend37.IsEquallySpacedItems = true;
+            legend37.ItemColumnSpacing = 10;
+            legend37.LegendItemOrder = System.Windows.Forms.DataVisualization.Charting.LegendItemOrder.SameAsSeriesOrder;
+            legend37.Name = "Legend1";
+            legend37.TextWrapThreshold = 20;
+            this.main_page_chart_2.Legends.Add(legend37);
             this.main_page_chart_2.Location = new System.Drawing.Point(1058, 10);
             this.main_page_chart_2.Name = "main_page_chart_2";
-            series22.ChartArea = "ChartArea1";
-            series22.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Doughnut;
-            series22.CustomProperties = "DoughnutRadius=37";
-            series22.Legend = "Legend1";
-            series22.Name = "website";
-            this.main_page_chart_2.Series.Add(series22);
+            series62.ChartArea = "ChartArea1";
+            series62.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Doughnut;
+            series62.CustomProperties = "DoughnutRadius=37";
+            series62.Legend = "Legend1";
+            series62.Name = "website";
+            this.main_page_chart_2.Series.Add(series62);
             this.main_page_chart_2.Size = new System.Drawing.Size(198, 205);
             this.main_page_chart_2.TabIndex = 7;
             this.main_page_chart_2.Text = "chart3";
-            title13.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            title13.Name = "Title1";
-            title13.Text = "Type of External Website";
-            this.main_page_chart_2.Titles.Add(title13);
+            title35.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            title35.Name = "Title1";
+            title35.Text = "Type of External Website";
+            this.main_page_chart_2.Titles.Add(title35);
             // 
             // main_page_chart_0
             // 
             this.main_page_chart_0.Anchor = System.Windows.Forms.AnchorStyles.None;
-            chartArea21.CursorX.IntervalOffsetType = System.Windows.Forms.DataVisualization.Charting.DateTimeIntervalType.Hours;
-            chartArea21.CursorX.IntervalType = System.Windows.Forms.DataVisualization.Charting.DateTimeIntervalType.Hours;
-            chartArea21.CursorY.IntervalOffsetType = System.Windows.Forms.DataVisualization.Charting.DateTimeIntervalType.Hours;
-            chartArea21.CursorY.IntervalType = System.Windows.Forms.DataVisualization.Charting.DateTimeIntervalType.Hours;
-            chartArea21.Name = "ChartArea1";
-            this.main_page_chart_0.ChartAreas.Add(chartArea21);
+            chartArea57.CursorX.IntervalOffsetType = System.Windows.Forms.DataVisualization.Charting.DateTimeIntervalType.Hours;
+            chartArea57.CursorX.IntervalType = System.Windows.Forms.DataVisualization.Charting.DateTimeIntervalType.Hours;
+            chartArea57.CursorY.IntervalOffsetType = System.Windows.Forms.DataVisualization.Charting.DateTimeIntervalType.Hours;
+            chartArea57.CursorY.IntervalType = System.Windows.Forms.DataVisualization.Charting.DateTimeIntervalType.Hours;
+            chartArea57.Name = "ChartArea1";
+            this.main_page_chart_0.ChartAreas.Add(chartArea57);
             this.main_page_chart_0.Location = new System.Drawing.Point(42, 321);
             this.main_page_chart_0.Margin = new System.Windows.Forms.Padding(1);
             this.main_page_chart_0.Name = "main_page_chart_0";
             this.main_page_chart_0.Palette = System.Windows.Forms.DataVisualization.Charting.ChartColorPalette.EarthTones;
             this.main_page_chart_0.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            series23.ChartArea = "ChartArea1";
-            series23.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.RangeColumn;
-            series23.CustomProperties = "LabelStyle=Bottom, BubbleMaxSize=3";
-            series23.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F);
-            series23.IsVisibleInLegend = false;
-            series23.LabelAngle = 45;
-            series23.Name = "time";
-            series23.XValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Single;
-            series23.YValuesPerPoint = 4;
-            series23.YValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Single;
-            this.main_page_chart_0.Series.Add(series23);
+            series63.ChartArea = "ChartArea1";
+            series63.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.RangeColumn;
+            series63.CustomProperties = "LabelStyle=Bottom, BubbleMaxSize=3";
+            series63.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F);
+            series63.IsVisibleInLegend = false;
+            series63.LabelAngle = 45;
+            series63.Name = "time";
+            series63.XValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Single;
+            series63.YValuesPerPoint = 4;
+            series63.YValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Single;
+            this.main_page_chart_0.Series.Add(series63);
             this.main_page_chart_0.Size = new System.Drawing.Size(681, 298);
             this.main_page_chart_0.TabIndex = 2;
-            title14.Font = new System.Drawing.Font("Times New Roman", 11F, System.Drawing.FontStyle.Bold);
-            title14.Name = "Title1";
-            this.main_page_chart_0.Titles.Add(title14);
+            title36.Font = new System.Drawing.Font("Times New Roman", 11F, System.Drawing.FontStyle.Bold);
+            title36.Name = "Title1";
+            this.main_page_chart_0.Titles.Add(title36);
             // 
             // _lblMainTitle
             // 
@@ -1242,36 +1353,36 @@
             // 
             // main_page_chart_1
             // 
-            chartArea22.Name = "ChartArea1";
-            this.main_page_chart_1.ChartAreas.Add(chartArea22);
-            legendItem11.Name = "External";
-            legendItem12.Name = "Internal";
-            legend14.CustomItems.Add(legendItem11);
-            legend14.CustomItems.Add(legendItem12);
-            legend14.Docking = System.Windows.Forms.DataVisualization.Charting.Docking.Bottom;
-            legend14.LegendStyle = System.Windows.Forms.DataVisualization.Charting.LegendStyle.Row;
-            legend14.Name = "Legend1";
-            legend14.TableStyle = System.Windows.Forms.DataVisualization.Charting.LegendTableStyle.Wide;
-            this.main_page_chart_1.Legends.Add(legend14);
+            chartArea58.Name = "ChartArea1";
+            this.main_page_chart_1.ChartAreas.Add(chartArea58);
+            legendItem31.Name = "External";
+            legendItem32.Name = "Internal";
+            legend38.CustomItems.Add(legendItem31);
+            legend38.CustomItems.Add(legendItem32);
+            legend38.Docking = System.Windows.Forms.DataVisualization.Charting.Docking.Bottom;
+            legend38.LegendStyle = System.Windows.Forms.DataVisualization.Charting.LegendStyle.Row;
+            legend38.Name = "Legend1";
+            legend38.TableStyle = System.Windows.Forms.DataVisualization.Charting.LegendTableStyle.Wide;
+            this.main_page_chart_1.Legends.Add(legend38);
             this.main_page_chart_1.Location = new System.Drawing.Point(848, 10);
             this.main_page_chart_1.Margin = new System.Windows.Forms.Padding(0);
             this.main_page_chart_1.Name = "main_page_chart_1";
             this.main_page_chart_1.Palette = System.Windows.Forms.DataVisualization.Charting.ChartColorPalette.EarthTones;
-            series24.ChartArea = "ChartArea1";
-            series24.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Doughnut;
-            series24.CustomProperties = "DoughnutRadius=37";
-            series24.Legend = "Legend1";
-            series24.MarkerSize = 3;
-            series24.Name = "Website";
-            series24.ShadowColor = System.Drawing.Color.Lime;
-            series24.YValuesPerPoint = 2;
-            this.main_page_chart_1.Series.Add(series24);
+            series64.ChartArea = "ChartArea1";
+            series64.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Doughnut;
+            series64.CustomProperties = "DoughnutRadius=37";
+            series64.Legend = "Legend1";
+            series64.MarkerSize = 3;
+            series64.Name = "Website";
+            series64.ShadowColor = System.Drawing.Color.Lime;
+            series64.YValuesPerPoint = 2;
+            this.main_page_chart_1.Series.Add(series64);
             this.main_page_chart_1.Size = new System.Drawing.Size(203, 190);
             this.main_page_chart_1.TabIndex = 2;
-            title15.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            title15.Name = "Title1";
-            title15.Text = "Types of Web Browsers";
-            this.main_page_chart_1.Titles.Add(title15);
+            title37.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            title37.Name = "Title1";
+            title37.Text = "Types of Web Browsers";
+            this.main_page_chart_1.Titles.Add(title37);
             // 
             // _pnlSideView1
             // 
@@ -1308,135 +1419,135 @@
             // 
             // main_page_chart_6
             // 
-            chartArea23.Name = "ChartArea1";
-            this.main_page_chart_6.ChartAreas.Add(chartArea23);
-            legendItem13.Name = "External";
-            legendItem14.Name = "Internal";
-            legend15.CustomItems.Add(legendItem13);
-            legend15.CustomItems.Add(legendItem14);
-            legend15.Docking = System.Windows.Forms.DataVisualization.Charting.Docking.Bottom;
-            legend15.LegendStyle = System.Windows.Forms.DataVisualization.Charting.LegendStyle.Row;
-            legend15.Name = "Legend1";
-            legend15.TableStyle = System.Windows.Forms.DataVisualization.Charting.LegendTableStyle.Wide;
-            this.main_page_chart_6.Legends.Add(legend15);
+            chartArea59.Name = "ChartArea1";
+            this.main_page_chart_6.ChartAreas.Add(chartArea59);
+            legendItem33.Name = "External";
+            legendItem34.Name = "Internal";
+            legend39.CustomItems.Add(legendItem33);
+            legend39.CustomItems.Add(legendItem34);
+            legend39.Docking = System.Windows.Forms.DataVisualization.Charting.Docking.Bottom;
+            legend39.LegendStyle = System.Windows.Forms.DataVisualization.Charting.LegendStyle.Row;
+            legend39.Name = "Legend1";
+            legend39.TableStyle = System.Windows.Forms.DataVisualization.Charting.LegendTableStyle.Wide;
+            this.main_page_chart_6.Legends.Add(legend39);
             this.main_page_chart_6.Location = new System.Drawing.Point(219, 208);
             this.main_page_chart_6.Margin = new System.Windows.Forms.Padding(0);
             this.main_page_chart_6.Name = "main_page_chart_6";
             this.main_page_chart_6.Palette = System.Windows.Forms.DataVisualization.Charting.ChartColorPalette.EarthTones;
-            series25.ChartArea = "ChartArea1";
-            series25.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Doughnut;
-            series25.CustomProperties = "DoughnutRadius=37";
-            series25.Legend = "Legend1";
-            series25.MarkerSize = 3;
-            series25.Name = "Website";
-            series25.ShadowColor = System.Drawing.Color.Lime;
-            series25.YValuesPerPoint = 2;
-            this.main_page_chart_6.Series.Add(series25);
+            series65.ChartArea = "ChartArea1";
+            series65.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Doughnut;
+            series65.CustomProperties = "DoughnutRadius=37";
+            series65.Legend = "Legend1";
+            series65.MarkerSize = 3;
+            series65.Name = "Website";
+            series65.ShadowColor = System.Drawing.Color.Lime;
+            series65.YValuesPerPoint = 2;
+            this.main_page_chart_6.Series.Add(series65);
             this.main_page_chart_6.Size = new System.Drawing.Size(203, 190);
             this.main_page_chart_6.TabIndex = 6;
-            title16.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            title16.Name = "Title1";
-            title16.Text = "Types of Web Browsers";
-            this.main_page_chart_6.Titles.Add(title16);
+            title38.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            title38.Name = "Title1";
+            title38.Text = "Types of Web Browsers";
+            this.main_page_chart_6.Titles.Add(title38);
             // 
             // main_page_chart_4
             // 
-            chartArea24.Name = "ChartArea1";
-            this.main_page_chart_4.ChartAreas.Add(chartArea24);
-            legendItem15.Name = "External";
-            legendItem16.Name = "Internal";
-            legend16.CustomItems.Add(legendItem15);
-            legend16.CustomItems.Add(legendItem16);
-            legend16.Docking = System.Windows.Forms.DataVisualization.Charting.Docking.Bottom;
-            legend16.LegendStyle = System.Windows.Forms.DataVisualization.Charting.LegendStyle.Row;
-            legend16.Name = "Legend1";
-            legend16.TableStyle = System.Windows.Forms.DataVisualization.Charting.LegendTableStyle.Wide;
-            this.main_page_chart_4.Legends.Add(legend16);
+            chartArea60.Name = "ChartArea1";
+            this.main_page_chart_4.ChartAreas.Add(chartArea60);
+            legendItem35.Name = "External";
+            legendItem36.Name = "Internal";
+            legend40.CustomItems.Add(legendItem35);
+            legend40.CustomItems.Add(legendItem36);
+            legend40.Docking = System.Windows.Forms.DataVisualization.Charting.Docking.Bottom;
+            legend40.LegendStyle = System.Windows.Forms.DataVisualization.Charting.LegendStyle.Row;
+            legend40.Name = "Legend1";
+            legend40.TableStyle = System.Windows.Forms.DataVisualization.Charting.LegendTableStyle.Wide;
+            this.main_page_chart_4.Legends.Add(legend40);
             this.main_page_chart_4.Location = new System.Drawing.Point(219, 8);
             this.main_page_chart_4.Margin = new System.Windows.Forms.Padding(0);
             this.main_page_chart_4.Name = "main_page_chart_4";
             this.main_page_chart_4.Palette = System.Windows.Forms.DataVisualization.Charting.ChartColorPalette.EarthTones;
-            series26.ChartArea = "ChartArea1";
-            series26.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Doughnut;
-            series26.CustomProperties = "DoughnutRadius=37";
-            series26.Legend = "Legend1";
-            series26.MarkerSize = 3;
-            series26.Name = "Website";
-            series26.ShadowColor = System.Drawing.Color.Lime;
-            series26.YValuesPerPoint = 2;
-            this.main_page_chart_4.Series.Add(series26);
+            series66.ChartArea = "ChartArea1";
+            series66.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Doughnut;
+            series66.CustomProperties = "DoughnutRadius=37";
+            series66.Legend = "Legend1";
+            series66.MarkerSize = 3;
+            series66.Name = "Website";
+            series66.ShadowColor = System.Drawing.Color.Lime;
+            series66.YValuesPerPoint = 2;
+            this.main_page_chart_4.Series.Add(series66);
             this.main_page_chart_4.Size = new System.Drawing.Size(203, 190);
             this.main_page_chart_4.TabIndex = 5;
-            title17.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            title17.Name = "Title1";
-            title17.Text = "Types of Web Browsers";
-            this.main_page_chart_4.Titles.Add(title17);
+            title39.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            title39.Name = "Title1";
+            title39.Text = "Types of Web Browsers";
+            this.main_page_chart_4.Titles.Add(title39);
             // 
             // main_page_chart_5
             // 
-            chartArea25.Name = "ChartArea1";
-            this.main_page_chart_5.ChartAreas.Add(chartArea25);
-            legendItem17.Name = "External";
-            legendItem18.Name = "Internal";
-            legend17.CustomItems.Add(legendItem17);
-            legend17.CustomItems.Add(legendItem18);
-            legend17.Docking = System.Windows.Forms.DataVisualization.Charting.Docking.Bottom;
-            legend17.LegendStyle = System.Windows.Forms.DataVisualization.Charting.LegendStyle.Row;
-            legend17.Name = "Legend1";
-            legend17.TableStyle = System.Windows.Forms.DataVisualization.Charting.LegendTableStyle.Wide;
-            this.main_page_chart_5.Legends.Add(legend17);
+            chartArea61.Name = "ChartArea1";
+            this.main_page_chart_5.ChartAreas.Add(chartArea61);
+            legendItem37.Name = "External";
+            legendItem38.Name = "Internal";
+            legend41.CustomItems.Add(legendItem37);
+            legend41.CustomItems.Add(legendItem38);
+            legend41.Docking = System.Windows.Forms.DataVisualization.Charting.Docking.Bottom;
+            legend41.LegendStyle = System.Windows.Forms.DataVisualization.Charting.LegendStyle.Row;
+            legend41.Name = "Legend1";
+            legend41.TableStyle = System.Windows.Forms.DataVisualization.Charting.LegendTableStyle.Wide;
+            this.main_page_chart_5.Legends.Add(legend41);
             this.main_page_chart_5.Location = new System.Drawing.Point(12, 208);
             this.main_page_chart_5.Margin = new System.Windows.Forms.Padding(0);
             this.main_page_chart_5.Name = "main_page_chart_5";
             this.main_page_chart_5.Palette = System.Windows.Forms.DataVisualization.Charting.ChartColorPalette.EarthTones;
-            series27.ChartArea = "ChartArea1";
-            series27.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Doughnut;
-            series27.CustomProperties = "DoughnutRadius=37";
-            series27.Legend = "Legend1";
-            series27.MarkerSize = 3;
-            series27.Name = "Website";
-            series27.ShadowColor = System.Drawing.Color.Lime;
-            series27.YValuesPerPoint = 2;
-            this.main_page_chart_5.Series.Add(series27);
+            series67.ChartArea = "ChartArea1";
+            series67.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Doughnut;
+            series67.CustomProperties = "DoughnutRadius=37";
+            series67.Legend = "Legend1";
+            series67.MarkerSize = 3;
+            series67.Name = "Website";
+            series67.ShadowColor = System.Drawing.Color.Lime;
+            series67.YValuesPerPoint = 2;
+            this.main_page_chart_5.Series.Add(series67);
             this.main_page_chart_5.Size = new System.Drawing.Size(203, 190);
             this.main_page_chart_5.TabIndex = 4;
-            title18.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            title18.Name = "Title1";
-            title18.Text = "Types of Web Browsers";
-            this.main_page_chart_5.Titles.Add(title18);
+            title40.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            title40.Name = "Title1";
+            title40.Text = "Types of Web Browsers";
+            this.main_page_chart_5.Titles.Add(title40);
             // 
             // main_page_chart_3
             // 
-            chartArea26.Name = "ChartArea1";
-            this.main_page_chart_3.ChartAreas.Add(chartArea26);
-            legendItem19.Name = "External";
-            legendItem20.Name = "Internal";
-            legend18.CustomItems.Add(legendItem19);
-            legend18.CustomItems.Add(legendItem20);
-            legend18.Docking = System.Windows.Forms.DataVisualization.Charting.Docking.Bottom;
-            legend18.LegendStyle = System.Windows.Forms.DataVisualization.Charting.LegendStyle.Row;
-            legend18.Name = "Legend1";
-            legend18.TableStyle = System.Windows.Forms.DataVisualization.Charting.LegendTableStyle.Wide;
-            this.main_page_chart_3.Legends.Add(legend18);
+            chartArea62.Name = "ChartArea1";
+            this.main_page_chart_3.ChartAreas.Add(chartArea62);
+            legendItem39.Name = "External";
+            legendItem40.Name = "Internal";
+            legend42.CustomItems.Add(legendItem39);
+            legend42.CustomItems.Add(legendItem40);
+            legend42.Docking = System.Windows.Forms.DataVisualization.Charting.Docking.Bottom;
+            legend42.LegendStyle = System.Windows.Forms.DataVisualization.Charting.LegendStyle.Row;
+            legend42.Name = "Legend1";
+            legend42.TableStyle = System.Windows.Forms.DataVisualization.Charting.LegendTableStyle.Wide;
+            this.main_page_chart_3.Legends.Add(legend42);
             this.main_page_chart_3.Location = new System.Drawing.Point(12, 7);
             this.main_page_chart_3.Margin = new System.Windows.Forms.Padding(0);
             this.main_page_chart_3.Name = "main_page_chart_3";
             this.main_page_chart_3.Palette = System.Windows.Forms.DataVisualization.Charting.ChartColorPalette.EarthTones;
-            series28.ChartArea = "ChartArea1";
-            series28.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Doughnut;
-            series28.CustomProperties = "DoughnutRadius=37";
-            series28.Legend = "Legend1";
-            series28.MarkerSize = 3;
-            series28.Name = "Website";
-            series28.ShadowColor = System.Drawing.Color.Lime;
-            series28.YValuesPerPoint = 2;
-            this.main_page_chart_3.Series.Add(series28);
+            series68.ChartArea = "ChartArea1";
+            series68.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Doughnut;
+            series68.CustomProperties = "DoughnutRadius=37";
+            series68.Legend = "Legend1";
+            series68.MarkerSize = 3;
+            series68.Name = "Website";
+            series68.ShadowColor = System.Drawing.Color.Lime;
+            series68.YValuesPerPoint = 2;
+            this.main_page_chart_3.Series.Add(series68);
             this.main_page_chart_3.Size = new System.Drawing.Size(203, 190);
             this.main_page_chart_3.TabIndex = 3;
-            title19.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            title19.Name = "Title1";
-            title19.Text = "Types of Web Browsers";
-            this.main_page_chart_3.Titles.Add(title19);
+            title41.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            title41.Name = "Title1";
+            title41.Text = "Types of Web Browsers";
+            this.main_page_chart_3.Titles.Add(title41);
             // 
             // _pnlGraph
             // 
@@ -1469,17 +1580,17 @@
             // 
             // _grph_9
             // 
-            chartArea27.Name = "ChartArea1";
-            this._grph_9.ChartAreas.Add(chartArea27);
-            legend19.Name = "Legend1";
-            this._grph_9.Legends.Add(legend19);
+            chartArea63.Name = "ChartArea1";
+            this._grph_9.ChartAreas.Add(chartArea63);
+            legend43.Name = "Legend1";
+            this._grph_9.Legends.Add(legend43);
             this._grph_9.Location = new System.Drawing.Point(21, 515);
             this._grph_9.Margin = new System.Windows.Forms.Padding(0);
             this._grph_9.Name = "_grph_9";
-            series29.ChartArea = "ChartArea1";
-            series29.Legend = "Legend1";
-            series29.Name = "Series1";
-            this._grph_9.Series.Add(series29);
+            series69.ChartArea = "ChartArea1";
+            series69.Legend = "Legend1";
+            series69.Name = "Series1";
+            this._grph_9.Series.Add(series69);
             this._grph_9.Size = new System.Drawing.Size(210, 65);
             this._grph_9.TabIndex = 13;
             this._grph_9.Text = "chart5";
@@ -1487,17 +1598,17 @@
             // 
             // _grph_8
             // 
-            chartArea28.Name = "ChartArea1";
-            this._grph_8.ChartAreas.Add(chartArea28);
-            legend20.Name = "Legend1";
-            this._grph_8.Legends.Add(legend20);
+            chartArea64.Name = "ChartArea1";
+            this._grph_8.ChartAreas.Add(chartArea64);
+            legend44.Name = "Legend1";
+            this._grph_8.Legends.Add(legend44);
             this._grph_8.Location = new System.Drawing.Point(21, 450);
             this._grph_8.Margin = new System.Windows.Forms.Padding(0);
             this._grph_8.Name = "_grph_8";
-            series30.ChartArea = "ChartArea1";
-            series30.Legend = "Legend1";
-            series30.Name = "Series1";
-            this._grph_8.Series.Add(series30);
+            series70.ChartArea = "ChartArea1";
+            series70.Legend = "Legend1";
+            series70.Name = "Series1";
+            this._grph_8.Series.Add(series70);
             this._grph_8.Size = new System.Drawing.Size(210, 65);
             this._grph_8.TabIndex = 12;
             this._grph_8.Text = "chart5";
@@ -1505,17 +1616,17 @@
             // 
             // _grph_7
             // 
-            chartArea29.Name = "ChartArea1";
-            this._grph_7.ChartAreas.Add(chartArea29);
-            legend21.Name = "Legend1";
-            this._grph_7.Legends.Add(legend21);
+            chartArea65.Name = "ChartArea1";
+            this._grph_7.ChartAreas.Add(chartArea65);
+            legend45.Name = "Legend1";
+            this._grph_7.Legends.Add(legend45);
             this._grph_7.Location = new System.Drawing.Point(10, 385);
             this._grph_7.Margin = new System.Windows.Forms.Padding(0);
             this._grph_7.Name = "_grph_7";
-            series31.ChartArea = "ChartArea1";
-            series31.Legend = "Legend1";
-            series31.Name = "Series1";
-            this._grph_7.Series.Add(series31);
+            series71.ChartArea = "ChartArea1";
+            series71.Legend = "Legend1";
+            series71.Name = "Series1";
+            this._grph_7.Series.Add(series71);
             this._grph_7.Size = new System.Drawing.Size(210, 65);
             this._grph_7.TabIndex = 11;
             this._grph_7.Text = "chart5";
@@ -1523,18 +1634,18 @@
             // 
             // _grph_6
             // 
-            chartArea30.Name = "ChartArea1";
-            this._grph_6.ChartAreas.Add(chartArea30);
-            legend22.Name = "Legend1";
-            this._grph_6.Legends.Add(legend22);
+            chartArea66.Name = "ChartArea1";
+            this._grph_6.ChartAreas.Add(chartArea66);
+            legend46.Name = "Legend1";
+            this._grph_6.Legends.Add(legend46);
             this._grph_6.Location = new System.Drawing.Point(10, 320);
             this._grph_6.Margin = new System.Windows.Forms.Padding(0);
             this._grph_6.Name = "_grph_6";
-            series32.ChartArea = "ChartArea1";
-            series32.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Bar;
-            series32.Legend = "Legend1";
-            series32.Name = "Series1";
-            this._grph_6.Series.Add(series32);
+            series72.ChartArea = "ChartArea1";
+            series72.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Bar;
+            series72.Legend = "Legend1";
+            series72.Name = "Series1";
+            this._grph_6.Series.Add(series72);
             this._grph_6.Size = new System.Drawing.Size(210, 65);
             this._grph_6.TabIndex = 10;
             this._grph_6.Text = "chart5";
@@ -1542,17 +1653,17 @@
             // 
             // _grph_5
             // 
-            chartArea31.Name = "ChartArea1";
-            this._grph_5.ChartAreas.Add(chartArea31);
-            legend23.Name = "Legend1";
-            this._grph_5.Legends.Add(legend23);
+            chartArea67.Name = "ChartArea1";
+            this._grph_5.ChartAreas.Add(chartArea67);
+            legend47.Name = "Legend1";
+            this._grph_5.Legends.Add(legend47);
             this._grph_5.Location = new System.Drawing.Point(10, 255);
             this._grph_5.Margin = new System.Windows.Forms.Padding(0);
             this._grph_5.Name = "_grph_5";
-            series33.ChartArea = "ChartArea1";
-            series33.Legend = "Legend1";
-            series33.Name = "Series1";
-            this._grph_5.Series.Add(series33);
+            series73.ChartArea = "ChartArea1";
+            series73.Legend = "Legend1";
+            series73.Name = "Series1";
+            this._grph_5.Series.Add(series73);
             this._grph_5.Size = new System.Drawing.Size(210, 65);
             this._grph_5.TabIndex = 9;
             this._grph_5.Text = "chart5";
@@ -1560,18 +1671,18 @@
             // 
             // _grph_4
             // 
-            chartArea32.Name = "ChartArea1";
-            this._grph_4.ChartAreas.Add(chartArea32);
-            legend24.Name = "Legend1";
-            this._grph_4.Legends.Add(legend24);
+            chartArea68.Name = "ChartArea1";
+            this._grph_4.ChartAreas.Add(chartArea68);
+            legend48.Name = "Legend1";
+            this._grph_4.Legends.Add(legend48);
             this._grph_4.Location = new System.Drawing.Point(32, 200);
             this._grph_4.Margin = new System.Windows.Forms.Padding(0);
             this._grph_4.Name = "_grph_4";
-            series34.ChartArea = "ChartArea1";
-            series34.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Bar;
-            series34.Legend = "Legend1";
-            series34.Name = "Series1";
-            this._grph_4.Series.Add(series34);
+            series74.ChartArea = "ChartArea1";
+            series74.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Bar;
+            series74.Legend = "Legend1";
+            series74.Name = "Series1";
+            this._grph_4.Series.Add(series74);
             this._grph_4.Size = new System.Drawing.Size(183, 55);
             this._grph_4.TabIndex = 8;
             this._grph_4.Text = "chart1";
@@ -1579,53 +1690,53 @@
             // 
             // _grph_2
             // 
-            chartArea33.Name = "ChartArea1";
-            chartArea34.Name = "ChartArea2";
-            this._grph_2.ChartAreas.Add(chartArea33);
-            this._grph_2.ChartAreas.Add(chartArea34);
+            chartArea69.Name = "ChartArea1";
+            chartArea70.Name = "ChartArea2";
+            this._grph_2.ChartAreas.Add(chartArea69);
+            this._grph_2.ChartAreas.Add(chartArea70);
             this._grph_2.Location = new System.Drawing.Point(32, 11);
             this._grph_2.Margin = new System.Windows.Forms.Padding(0);
             this._grph_2.Name = "_grph_2";
             this._grph_2.Palette = System.Windows.Forms.DataVisualization.Charting.ChartColorPalette.EarthTones;
-            series35.ChartArea = "ChartArea1";
-            series35.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.RangeBar;
-            series35.CustomProperties = "DoughnutRadius=40, BarLabelStyle=Left";
-            series35.MarkerSize = 3;
-            series35.Name = "Website";
-            series35.SmartLabelStyle.CalloutLineAnchorCapStyle = System.Windows.Forms.DataVisualization.Charting.LineAnchorCapStyle.Diamond;
-            series35.YValuesPerPoint = 2;
-            series35.YValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Single;
-            series36.ChartArea = "ChartArea2";
-            series36.Name = "Series2";
-            this._grph_2.Series.Add(series35);
-            this._grph_2.Series.Add(series36);
+            series75.ChartArea = "ChartArea1";
+            series75.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.RangeBar;
+            series75.CustomProperties = "DoughnutRadius=40, BarLabelStyle=Left";
+            series75.MarkerSize = 3;
+            series75.Name = "Website";
+            series75.SmartLabelStyle.CalloutLineAnchorCapStyle = System.Windows.Forms.DataVisualization.Charting.LineAnchorCapStyle.Diamond;
+            series75.YValuesPerPoint = 2;
+            series75.YValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Single;
+            series76.ChartArea = "ChartArea2";
+            series76.Name = "Series2";
+            this._grph_2.Series.Add(series75);
+            this._grph_2.Series.Add(series76);
             this._grph_2.Size = new System.Drawing.Size(172, 95);
             this._grph_2.TabIndex = 2;
-            title20.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold);
-            title20.Name = "Title1";
-            title20.Text = "Responce Time Analysis";
-            title20.TextOrientation = System.Windows.Forms.DataVisualization.Charting.TextOrientation.Horizontal;
-            this._grph_2.Titles.Add(title20);
+            title42.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold);
+            title42.Name = "Title1";
+            title42.Text = "Responce Time Analysis";
+            title42.TextOrientation = System.Windows.Forms.DataVisualization.Charting.TextOrientation.Horizontal;
+            this._grph_2.Titles.Add(title42);
             this._grph_2.Click += new System.EventHandler(this._grph_2_Click);
             // 
             // _grph_3
             // 
-            chartArea35.Name = "ChartArea1";
-            this._grph_3.ChartAreas.Add(chartArea35);
+            chartArea71.Name = "ChartArea1";
+            this._grph_3.ChartAreas.Add(chartArea71);
             this._grph_3.Location = new System.Drawing.Point(32, 110);
             this._grph_3.Margin = new System.Windows.Forms.Padding(0);
             this._grph_3.Name = "_grph_3";
-            series37.ChartArea = "ChartArea1";
-            series37.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Pie;
-            series37.CustomProperties = "DoughnutRadius=40";
-            series37.Name = "IncomingMail";
-            this._grph_3.Series.Add(series37);
+            series77.ChartArea = "ChartArea1";
+            series77.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Pie;
+            series77.CustomProperties = "DoughnutRadius=40";
+            series77.Name = "IncomingMail";
+            this._grph_3.Series.Add(series77);
             this._grph_3.Size = new System.Drawing.Size(129, 79);
             this._grph_3.TabIndex = 7;
-            title21.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold);
-            title21.Name = "Title1";
-            title21.Text = "Receiptent (Sent Emails) Analysis";
-            this._grph_3.Titles.Add(title21);
+            title43.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold);
+            title43.Name = "Title1";
+            title43.Text = "Receiptent (Sent Emails) Analysis";
+            this._grph_3.Titles.Add(title43);
             this._grph_3.Click += new System.EventHandler(this._grph_3_Click);
             // 
             // _lblGrphHeader
@@ -1651,35 +1762,35 @@
             // 
             // _grph_1
             // 
-            chartArea36.Name = "ChartArea1";
-            this._grph_1.ChartAreas.Add(chartArea36);
+            chartArea72.Name = "ChartArea1";
+            this._grph_1.ChartAreas.Add(chartArea72);
             this._grph_1.Location = new System.Drawing.Point(3, 11);
             this._grph_1.Margin = new System.Windows.Forms.Padding(0);
             this._grph_1.Name = "_grph_1";
             this._grph_1.Palette = System.Windows.Forms.DataVisualization.Charting.ChartColorPalette.Pastel;
             this._grph_1.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            series38.ChartArea = "ChartArea1";
-            series38.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.StackedArea;
-            series38.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F);
-            series38.IsVisibleInLegend = false;
-            series38.Name = "time1";
-            series38.XValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Single;
-            series38.YValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Single;
-            series39.ChartArea = "ChartArea1";
-            series39.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.StackedArea;
-            series39.Name = "time2";
-            series40.ChartArea = "ChartArea1";
-            series40.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.StackedArea;
-            series40.Name = "time3";
-            this._grph_1.Series.Add(series38);
-            this._grph_1.Series.Add(series39);
-            this._grph_1.Series.Add(series40);
+            series78.ChartArea = "ChartArea1";
+            series78.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.StackedArea;
+            series78.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F);
+            series78.IsVisibleInLegend = false;
+            series78.Name = "time1";
+            series78.XValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Single;
+            series78.YValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Single;
+            series79.ChartArea = "ChartArea1";
+            series79.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.StackedArea;
+            series79.Name = "time2";
+            series80.ChartArea = "ChartArea1";
+            series80.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.StackedArea;
+            series80.Name = "time3";
+            this._grph_1.Series.Add(series78);
+            this._grph_1.Series.Add(series79);
+            this._grph_1.Series.Add(series80);
             this._grph_1.Size = new System.Drawing.Size(846, 500);
             this._grph_1.TabIndex = 1;
-            title22.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold);
-            title22.Name = "Title1";
-            title22.Text = "Time Ploat of Unread emails in Inbox";
-            this._grph_1.Titles.Add(title22);
+            title44.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold);
+            title44.Name = "Title1";
+            title44.Text = "Time Ploat of Unread emails in Inbox";
+            this._grph_1.Titles.Add(title44);
             this._grph_1.Click += new System.EventHandler(this._grph_1_Click);
             // 
             // _pnlSettingMain
@@ -2058,6 +2169,8 @@
             ((System.ComponentModel.ISupportInitialize)(this._ptr_mail_box)).EndInit();
             this._pnlHome.ResumeLayout(false);
             this._pnlHome.PerformLayout();
+            this._pnl_Login.ResumeLayout(false);
+            this._pnl_Login.PerformLayout();
             this.panel5.ResumeLayout(false);
             this.panel_welcome.ResumeLayout(false);
             this.panel_welcome.PerformLayout();
@@ -2238,5 +2351,14 @@
         private System.Windows.Forms.Button btnagree;
         private System.Windows.Forms.Button btnintegrate;
         private System.Windows.Forms.Button btnregister;
+        private System.Windows.Forms.Panel _pnl_Login;
+        private System.Windows.Forms.Button btnForgot;
+        private System.Windows.Forms.Button btnSignUp;
+        private System.Windows.Forms.Button btnSignIn;
+        private System.Windows.Forms.TextBox txtPass;
+        private System.Windows.Forms.TextBox txtUsername;
+        private System.Windows.Forms.Label lblPassword;
+        private System.Windows.Forms.Label lblUsername;
+        private System.Windows.Forms.Label lblProject;
     }
 }

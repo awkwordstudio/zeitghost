@@ -54,6 +54,7 @@ namespace SysInfo
             }
             return bRet;
         }
+
         // Create Database 
         public void create_db(string curFile, string log_file)
         {
@@ -109,6 +110,35 @@ namespace SysInfo
                 myConn.Close();
             }
             return;
+        }
+
+        //Check for Valid Username and Password
+        public bool checkIfValidUser(string username, string password)
+        {
+            SqlConnection connection = get_connectionString();
+            try
+            {
+                connection.Open();
+                SqlDataAdapter adapter = new SqlDataAdapter("select [username],[password] from user_Registration where username='" + username + "' and password= '" + password + "'", connection);
+                DataTable table = new DataTable();
+                adapter.Fill(table);
+                foreach (DataRow row in table.Rows)
+                {
+                    string name = row["username"].ToString();
+                    string pass = row["password"].ToString();
+                    if (name.Equals(username,StringComparison.OrdinalIgnoreCase) && pass.Equals(password))
+                    {
+                        connection.Close();
+                        return true;
+                    }
+                }
+            }
+            catch (Exception e)
+            {
+                this.write_log_file("error is while checking user_Registration table", "-----error-----", e.Message);
+            }
+            connection.Close();
+            return false;
         }
 
         // Check table Existane 
@@ -407,33 +437,28 @@ namespace SysInfo
                 }
                 Console.WriteLine("done url_info");
 
-                //registration table
+                //user_Registration table
                 table_column.Clear();
                 table_column.Add("Id", "INT IDENTITY (1, 1) NOT NULL");
-                table_column.Add("name", "VARCHAR(512) NULL");
+                table_column.Add("username", "VARCHAR(512) NULL");
                 table_column.Add("password", "VARCHAR(512) NULL");
                 table_column.Add("email", "VARCHAR(512) NULL");
                 table_column.Add("phn_no", "VARCHAR(512) NULL");
                 table_column.Add("skype", "VARCHAR(512) NULL");
                 table_column.Add("other", "VARCHAR(512) NULL");
-                if (!CheckTableExists("registration"))
+                if (!CheckTableExists("user_Registration"))
                 {
-                    create_new_table(table_column, "registration");
+                    create_new_table(table_column, "user_Registration");
 
                 }
                 else
                 {
-                    alter_Column(table_column, "registration");
+                    alter_Column(table_column, "user_Registration");
                 }
-                Console.WriteLine("done registration");
-            
-            
+                Console.WriteLine("done user_Registration");        
 
-                //insert data into registration table
-        
-
-        //social media table
-        table_column.Clear();
+                //social media table
+                table_column.Clear();
                 table_column.Add("Id", "INT IDENTITY (1, 1) NOT NULL");
                 table_column.Add("url", "VARCHAR(512) NULL");
                 table_column.Add("browser", "VARCHAR(512) NULL");
@@ -493,7 +518,8 @@ namespace SysInfo
                 }
             }
         }
-        //insert into registration
+
+        //insert into user_Registration
         public void insertData(string name, string password, string email, string phn_no, string skype, string other)
         {
             SqlConnection conn = get_connectionString();
@@ -501,7 +527,7 @@ namespace SysInfo
             Console.WriteLine("+++++++++++++++++++++++++++++++++++");
             try
             {
-                SqlCommand command = new SqlCommand("insert into registration(name,password,email,phn_no,skype,other) values (@name,@password,@email,@phn_no,@skype,@other)", conn);
+                SqlCommand command = new SqlCommand("insert into user_Registration(username,password,email,phn_no,skype,other) values (@name,@password,@email,@phn_no,@skype,@other)", conn);
                 command.Parameters.AddWithValue("name", name);
                 command.Parameters.AddWithValue("password", password);
                 command.Parameters.AddWithValue("email", email);
@@ -517,6 +543,5 @@ namespace SysInfo
             }
             conn.Close();
         }
-        
     }
 }

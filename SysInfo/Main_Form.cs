@@ -22,9 +22,9 @@ namespace SysInfo
 {
     public partial class Main_Form : Form
     {
-
         private Custom_methods Custom_obj = new Custom_methods();
         private string Load_type="mail";
+        private static bool loggedIn = false;
         public Main_Form()
         {
             InitializeComponent();
@@ -259,8 +259,6 @@ namespace SysInfo
             String con = Convert.ToInt32(txtphn_no.Text).ToString();
             String skype = txtskype.Text;
             String other = txtother_program.Text;
-            Custom_obj.insertData(name,pwd,email,con,skype,other);
-
         }
 
         private void btnintegrate_Click(object sender, EventArgs e)
@@ -289,10 +287,42 @@ namespace SysInfo
 
         private void btnsetup_Click(object sender, EventArgs e)
         {
+            Custom_obj.insertData(txtname.Text,txtpassword.Text,txtemail.Text,txtphn_no.Text,txtskype.Text,txtother_program.Text);
             //this.Dispose();
             Setup s = new Setup();
             s.Show();
-            
+        }
+
+        private void btnSignUp_Click(object sender, EventArgs e)
+        {
+            //Console.WriteLine("Im inside Registration form....");
+            _pnl_Login.Visible = false;
+        }
+
+        private void btnSignIn_Click(object sender, EventArgs e)
+        {
+            //_pnlHome.Visible = false;
+            string uname = txtUsername.Text;
+            string password = txtPass.Text;
+            try
+            {
+                if(uname.Equals("") || password.Equals(""))
+                {
+                    MessageBox.Show("Please Enter Username and Password");
+                }
+                else
+                {
+                    loggedIn = Custom_obj.checkIfValidUser(uname,password);
+                    if (loggedIn)
+                        MessageBox.Show("Welcome " + uname);
+                    else
+                        MessageBox.Show("Invalid Username or Password");
+                }
+            }
+            catch(Exception ex)
+            {
+                Custom_obj.write_log_file("---------Insert Error--------","-----The Error is------",ex.Message);
+            }
         }
     }
 
