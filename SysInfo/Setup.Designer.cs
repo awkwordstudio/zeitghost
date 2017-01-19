@@ -30,59 +30,59 @@
         {
             this.label1 = new System.Windows.Forms.Label();
             this.panel_self = new System.Windows.Forms.Panel();
-            this.panel_team = new System.Windows.Forms.Panel();
-            this.panel_client = new System.Windows.Forms.Panel();
-            this.panel_other = new System.Windows.Forms.Panel();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
-            this.label5 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
-            this.label7 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.textBox4 = new System.Windows.Forms.TextBox();
-            this.textBox5 = new System.Windows.Forms.TextBox();
             this.label8 = new System.Windows.Forms.Label();
-            this.label9 = new System.Windows.Forms.Label();
-            this.label10 = new System.Windows.Forms.Label();
-            this.label11 = new System.Windows.Forms.Label();
+            this.txtpos = new System.Windows.Forms.TextBox();
+            this.txtteam = new System.Windows.Forms.TextBox();
+            this.txtdept = new System.Windows.Forms.TextBox();
+            this.txtcompany = new System.Windows.Forms.TextBox();
+            this.txtsname = new System.Windows.Forms.TextBox();
+            this.label7 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.panel_team = new System.Windows.Forms.Panel();
+            this.txtreport3 = new System.Windows.Forms.TextBox();
+            this.txtreport2 = new System.Windows.Forms.TextBox();
+            this.txtreport1 = new System.Windows.Forms.TextBox();
+            this.txtcolleague3 = new System.Windows.Forms.TextBox();
+            this.txtcolleague2 = new System.Windows.Forms.TextBox();
+            this.txtcolleague1 = new System.Windows.Forms.TextBox();
+            this.txtmanager = new System.Windows.Forms.TextBox();
             this.label12 = new System.Windows.Forms.Label();
-            this.textBox6 = new System.Windows.Forms.TextBox();
-            this.textBox7 = new System.Windows.Forms.TextBox();
-            this.textBox8 = new System.Windows.Forms.TextBox();
-            this.textBox9 = new System.Windows.Forms.TextBox();
-            this.textBox10 = new System.Windows.Forms.TextBox();
-            this.textBox11 = new System.Windows.Forms.TextBox();
-            this.textBox12 = new System.Windows.Forms.TextBox();
-            this.label13 = new System.Windows.Forms.Label();
-            this.label14 = new System.Windows.Forms.Label();
+            this.label11 = new System.Windows.Forms.Label();
+            this.label10 = new System.Windows.Forms.Label();
+            this.label9 = new System.Windows.Forms.Label();
+            this.panel_client = new System.Windows.Forms.Panel();
+            this.txtvendor3 = new System.Windows.Forms.TextBox();
+            this.txtvendor2 = new System.Windows.Forms.TextBox();
+            this.txtvendor1 = new System.Windows.Forms.TextBox();
+            this.txtclient3 = new System.Windows.Forms.TextBox();
+            this.txtclient2 = new System.Windows.Forms.TextBox();
+            this.txtclient1 = new System.Windows.Forms.TextBox();
             this.label15 = new System.Windows.Forms.Label();
-            this.textBox13 = new System.Windows.Forms.TextBox();
-            this.textBox14 = new System.Windows.Forms.TextBox();
-            this.textBox15 = new System.Windows.Forms.TextBox();
-            this.textBox16 = new System.Windows.Forms.TextBox();
-            this.textBox17 = new System.Windows.Forms.TextBox();
-            this.textBox18 = new System.Windows.Forms.TextBox();
-            this.label16 = new System.Windows.Forms.Label();
-            this.label17 = new System.Windows.Forms.Label();
-            this.label18 = new System.Windows.Forms.Label();
-            this.label19 = new System.Windows.Forms.Label();
+            this.label14 = new System.Windows.Forms.Label();
+            this.label13 = new System.Windows.Forms.Label();
+            this.panel_other = new System.Windows.Forms.Panel();
+            this.txtimp3 = new System.Windows.Forms.TextBox();
+            this.txtimp2 = new System.Windows.Forms.TextBox();
+            this.txtimp1 = new System.Windows.Forms.TextBox();
+            this.txtfriend3 = new System.Windows.Forms.TextBox();
+            this.txtfriend2 = new System.Windows.Forms.TextBox();
+            this.txtfriend1 = new System.Windows.Forms.TextBox();
+            this.txtinternal3 = new System.Windows.Forms.TextBox();
+            this.txtinternal2 = new System.Windows.Forms.TextBox();
+            this.txtinternal1 = new System.Windows.Forms.TextBox();
             this.label20 = new System.Windows.Forms.Label();
-            this.textBox19 = new System.Windows.Forms.TextBox();
-            this.textBox20 = new System.Windows.Forms.TextBox();
-            this.textBox21 = new System.Windows.Forms.TextBox();
-            this.textBox22 = new System.Windows.Forms.TextBox();
-            this.textBox23 = new System.Windows.Forms.TextBox();
-            this.textBox24 = new System.Windows.Forms.TextBox();
-            this.textBox25 = new System.Windows.Forms.TextBox();
-            this.textBox26 = new System.Windows.Forms.TextBox();
-            this.textBox27 = new System.Windows.Forms.TextBox();
+            this.label19 = new System.Windows.Forms.Label();
+            this.label18 = new System.Windows.Forms.Label();
+            this.label17 = new System.Windows.Forms.Label();
+            this.label16 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
             this.panel6 = new System.Windows.Forms.Panel();
-            this.button10 = new System.Windows.Forms.Button();
-            this.button9 = new System.Windows.Forms.Button();
-            this.button8 = new System.Windows.Forms.Button();
+            this.btnmeeting = new System.Windows.Forms.Button();
+            this.btnweb = new System.Windows.Forms.Button();
+            this.btnapp = new System.Windows.Forms.Button();
             this.btnproject = new System.Windows.Forms.Button();
             this.btnother = new System.Windows.Forms.Button();
             this.btnclient = new System.Windows.Forms.Button();
@@ -110,11 +110,11 @@
             // panel_self
             // 
             this.panel_self.Controls.Add(this.label8);
-            this.panel_self.Controls.Add(this.textBox5);
-            this.panel_self.Controls.Add(this.textBox4);
-            this.panel_self.Controls.Add(this.textBox3);
-            this.panel_self.Controls.Add(this.textBox2);
-            this.panel_self.Controls.Add(this.textBox1);
+            this.panel_self.Controls.Add(this.txtpos);
+            this.panel_self.Controls.Add(this.txtteam);
+            this.panel_self.Controls.Add(this.txtdept);
+            this.panel_self.Controls.Add(this.txtcompany);
+            this.panel_self.Controls.Add(this.txtsname);
             this.panel_self.Controls.Add(this.label7);
             this.panel_self.Controls.Add(this.label6);
             this.panel_self.Controls.Add(this.label5);
@@ -124,175 +124,6 @@
             this.panel_self.Name = "panel_self";
             this.panel_self.Size = new System.Drawing.Size(200, 357);
             this.panel_self.TabIndex = 1;
-            // 
-            // panel_team
-            // 
-            this.panel_team.Controls.Add(this.textBox12);
-            this.panel_team.Controls.Add(this.textBox11);
-            this.panel_team.Controls.Add(this.textBox10);
-            this.panel_team.Controls.Add(this.textBox9);
-            this.panel_team.Controls.Add(this.textBox8);
-            this.panel_team.Controls.Add(this.textBox7);
-            this.panel_team.Controls.Add(this.textBox6);
-            this.panel_team.Controls.Add(this.label12);
-            this.panel_team.Controls.Add(this.label11);
-            this.panel_team.Controls.Add(this.label10);
-            this.panel_team.Controls.Add(this.label9);
-            this.panel_team.Location = new System.Drawing.Point(256, 69);
-            this.panel_team.Name = "panel_team";
-            this.panel_team.Size = new System.Drawing.Size(233, 357);
-            this.panel_team.TabIndex = 2;
-            // 
-            // panel_client
-            // 
-            this.panel_client.Controls.Add(this.textBox18);
-            this.panel_client.Controls.Add(this.textBox17);
-            this.panel_client.Controls.Add(this.textBox16);
-            this.panel_client.Controls.Add(this.textBox15);
-            this.panel_client.Controls.Add(this.textBox14);
-            this.panel_client.Controls.Add(this.textBox13);
-            this.panel_client.Controls.Add(this.label15);
-            this.panel_client.Controls.Add(this.label14);
-            this.panel_client.Controls.Add(this.label13);
-            this.panel_client.Location = new System.Drawing.Point(505, 69);
-            this.panel_client.Name = "panel_client";
-            this.panel_client.Size = new System.Drawing.Size(239, 357);
-            this.panel_client.TabIndex = 3;
-            // 
-            // panel_other
-            // 
-            this.panel_other.Controls.Add(this.textBox27);
-            this.panel_other.Controls.Add(this.textBox26);
-            this.panel_other.Controls.Add(this.textBox25);
-            this.panel_other.Controls.Add(this.textBox24);
-            this.panel_other.Controls.Add(this.textBox23);
-            this.panel_other.Controls.Add(this.textBox22);
-            this.panel_other.Controls.Add(this.textBox21);
-            this.panel_other.Controls.Add(this.textBox20);
-            this.panel_other.Controls.Add(this.textBox19);
-            this.panel_other.Controls.Add(this.label20);
-            this.panel_other.Controls.Add(this.label19);
-            this.panel_other.Controls.Add(this.label18);
-            this.panel_other.Controls.Add(this.label17);
-            this.panel_other.Controls.Add(this.label16);
-            this.panel_other.Location = new System.Drawing.Point(750, 69);
-            this.panel_other.Name = "panel_other";
-            this.panel_other.Size = new System.Drawing.Size(276, 357);
-            this.panel_other.TabIndex = 4;
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.ForeColor = System.Drawing.Color.MediumPurple;
-            this.label2.Location = new System.Drawing.Point(16, 46);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(73, 13);
-            this.label2.TabIndex = 0;
-            this.label2.Text = "Your Name:";
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.ForeColor = System.Drawing.Color.MediumPurple;
-            this.label3.Location = new System.Drawing.Point(16, 104);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(88, 13);
-            this.label3.TabIndex = 1;
-            this.label3.Text = "Your Company";
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(-48, 309);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(35, 13);
-            this.label4.TabIndex = 2;
-            this.label4.Text = "label4";
-            // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.ForeColor = System.Drawing.Color.MediumPurple;
-            this.label5.Location = new System.Drawing.Point(16, 162);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(106, 13);
-            this.label5.TabIndex = 2;
-            this.label5.Text = "Your Department:";
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.ForeColor = System.Drawing.Color.MediumPurple;
-            this.label6.Location = new System.Drawing.Point(16, 221);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(72, 13);
-            this.label6.TabIndex = 3;
-            this.label6.Text = "Your Team:";
-            // 
-            // label7
-            // 
-            this.label7.AutoSize = true;
-            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.ForeColor = System.Drawing.Color.MediumPurple;
-            this.label7.Location = new System.Drawing.Point(16, 285);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(86, 13);
-            this.label7.TabIndex = 4;
-            this.label7.Text = "Your Position:";
-            // 
-            // textBox1
-            // 
-            this.textBox1.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.textBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox1.ForeColor = System.Drawing.SystemColors.Window;
-            this.textBox1.Location = new System.Drawing.Point(16, 62);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(167, 13);
-            this.textBox1.TabIndex = 6;
-            // 
-            // textBox2
-            // 
-            this.textBox2.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.textBox2.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox2.ForeColor = System.Drawing.SystemColors.Window;
-            this.textBox2.Location = new System.Drawing.Point(16, 120);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(167, 13);
-            this.textBox2.TabIndex = 7;
-            // 
-            // textBox3
-            // 
-            this.textBox3.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.textBox3.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox3.ForeColor = System.Drawing.SystemColors.Window;
-            this.textBox3.Location = new System.Drawing.Point(16, 178);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(167, 13);
-            this.textBox3.TabIndex = 8;
-            // 
-            // textBox4
-            // 
-            this.textBox4.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.textBox4.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox4.ForeColor = System.Drawing.SystemColors.Window;
-            this.textBox4.Location = new System.Drawing.Point(19, 237);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(167, 13);
-            this.textBox4.TabIndex = 9;
-            // 
-            // textBox5
-            // 
-            this.textBox5.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.textBox5.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox5.ForeColor = System.Drawing.SystemColors.Window;
-            this.textBox5.Location = new System.Drawing.Point(16, 301);
-            this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(167, 13);
-            this.textBox5.TabIndex = 10;
             // 
             // label8
             // 
@@ -305,38 +136,198 @@
             this.label8.TabIndex = 11;
             this.label8.Text = "Let\'s start with the basic..";
             // 
-            // label9
+            // txtpos
             // 
-            this.label9.AutoSize = true;
-            this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label9.ForeColor = System.Drawing.Color.OliveDrab;
-            this.label9.Location = new System.Drawing.Point(18, 12);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(206, 13);
-            this.label9.TabIndex = 0;
-            this.label9.Text = "Great,so who else is on your team?";
+            this.txtpos.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.txtpos.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtpos.ForeColor = System.Drawing.SystemColors.Window;
+            this.txtpos.Location = new System.Drawing.Point(16, 301);
+            this.txtpos.Name = "txtpos";
+            this.txtpos.Size = new System.Drawing.Size(167, 13);
+            this.txtpos.TabIndex = 10;
             // 
-            // label10
+            // txtteam
             // 
-            this.label10.AutoSize = true;
-            this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label10.ForeColor = System.Drawing.Color.OliveDrab;
-            this.label10.Location = new System.Drawing.Point(18, 46);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(90, 13);
-            this.label10.TabIndex = 1;
-            this.label10.Text = "Your Manager:";
+            this.txtteam.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.txtteam.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtteam.ForeColor = System.Drawing.SystemColors.Window;
+            this.txtteam.Location = new System.Drawing.Point(19, 237);
+            this.txtteam.Name = "txtteam";
+            this.txtteam.Size = new System.Drawing.Size(167, 13);
+            this.txtteam.TabIndex = 9;
             // 
-            // label11
+            // txtdept
             // 
-            this.label11.AutoSize = true;
-            this.label11.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label11.ForeColor = System.Drawing.Color.OliveDrab;
-            this.label11.Location = new System.Drawing.Point(18, 104);
-            this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(103, 13);
-            this.label11.TabIndex = 2;
-            this.label11.Text = "Your Colleagues:";
+            this.txtdept.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.txtdept.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtdept.ForeColor = System.Drawing.SystemColors.Window;
+            this.txtdept.Location = new System.Drawing.Point(16, 178);
+            this.txtdept.Name = "txtdept";
+            this.txtdept.Size = new System.Drawing.Size(167, 13);
+            this.txtdept.TabIndex = 8;
+            // 
+            // txtcompany
+            // 
+            this.txtcompany.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.txtcompany.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtcompany.ForeColor = System.Drawing.SystemColors.Window;
+            this.txtcompany.Location = new System.Drawing.Point(16, 120);
+            this.txtcompany.Name = "txtcompany";
+            this.txtcompany.Size = new System.Drawing.Size(167, 13);
+            this.txtcompany.TabIndex = 7;
+            // 
+            // txtsname
+            // 
+            this.txtsname.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.txtsname.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtsname.ForeColor = System.Drawing.SystemColors.Window;
+            this.txtsname.Location = new System.Drawing.Point(16, 62);
+            this.txtsname.Name = "txtsname";
+            this.txtsname.Size = new System.Drawing.Size(167, 13);
+            this.txtsname.TabIndex = 6;
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.ForeColor = System.Drawing.Color.MediumPurple;
+            this.label7.Location = new System.Drawing.Point(16, 285);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(86, 13);
+            this.label7.TabIndex = 4;
+            this.label7.Text = "Your Position:";
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.ForeColor = System.Drawing.Color.MediumPurple;
+            this.label6.Location = new System.Drawing.Point(16, 221);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(72, 13);
+            this.label6.TabIndex = 3;
+            this.label6.Text = "Your Team:";
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.ForeColor = System.Drawing.Color.MediumPurple;
+            this.label5.Location = new System.Drawing.Point(16, 162);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(106, 13);
+            this.label5.TabIndex = 2;
+            this.label5.Text = "Your Department:";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.ForeColor = System.Drawing.Color.MediumPurple;
+            this.label3.Location = new System.Drawing.Point(16, 104);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(88, 13);
+            this.label3.TabIndex = 1;
+            this.label3.Text = "Your Company";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.ForeColor = System.Drawing.Color.MediumPurple;
+            this.label2.Location = new System.Drawing.Point(16, 46);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(73, 13);
+            this.label2.TabIndex = 0;
+            this.label2.Text = "Your Name:";
+            // 
+            // panel_team
+            // 
+            this.panel_team.Controls.Add(this.txtreport3);
+            this.panel_team.Controls.Add(this.txtreport2);
+            this.panel_team.Controls.Add(this.txtreport1);
+            this.panel_team.Controls.Add(this.txtcolleague3);
+            this.panel_team.Controls.Add(this.txtcolleague2);
+            this.panel_team.Controls.Add(this.txtcolleague1);
+            this.panel_team.Controls.Add(this.txtmanager);
+            this.panel_team.Controls.Add(this.label12);
+            this.panel_team.Controls.Add(this.label11);
+            this.panel_team.Controls.Add(this.label10);
+            this.panel_team.Controls.Add(this.label9);
+            this.panel_team.Location = new System.Drawing.Point(256, 69);
+            this.panel_team.Name = "panel_team";
+            this.panel_team.Size = new System.Drawing.Size(233, 357);
+            this.panel_team.TabIndex = 2;
+            // 
+            // txtreport3
+            // 
+            this.txtreport3.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.txtreport3.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtreport3.ForeColor = System.Drawing.SystemColors.Window;
+            this.txtreport3.Location = new System.Drawing.Point(18, 290);
+            this.txtreport3.Name = "txtreport3";
+            this.txtreport3.Size = new System.Drawing.Size(157, 13);
+            this.txtreport3.TabIndex = 10;
+            // 
+            // txtreport2
+            // 
+            this.txtreport2.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.txtreport2.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtreport2.ForeColor = System.Drawing.SystemColors.Window;
+            this.txtreport2.Location = new System.Drawing.Point(18, 263);
+            this.txtreport2.Name = "txtreport2";
+            this.txtreport2.Size = new System.Drawing.Size(157, 13);
+            this.txtreport2.TabIndex = 9;
+            // 
+            // txtreport1
+            // 
+            this.txtreport1.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.txtreport1.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtreport1.ForeColor = System.Drawing.SystemColors.Window;
+            this.txtreport1.Location = new System.Drawing.Point(18, 237);
+            this.txtreport1.Name = "txtreport1";
+            this.txtreport1.Size = new System.Drawing.Size(157, 13);
+            this.txtreport1.TabIndex = 8;
+            // 
+            // txtcolleague3
+            // 
+            this.txtcolleague3.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.txtcolleague3.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtcolleague3.ForeColor = System.Drawing.SystemColors.Window;
+            this.txtcolleague3.Location = new System.Drawing.Point(18, 173);
+            this.txtcolleague3.Name = "txtcolleague3";
+            this.txtcolleague3.Size = new System.Drawing.Size(157, 13);
+            this.txtcolleague3.TabIndex = 7;
+            // 
+            // txtcolleague2
+            // 
+            this.txtcolleague2.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.txtcolleague2.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtcolleague2.ForeColor = System.Drawing.SystemColors.Window;
+            this.txtcolleague2.Location = new System.Drawing.Point(18, 146);
+            this.txtcolleague2.Name = "txtcolleague2";
+            this.txtcolleague2.Size = new System.Drawing.Size(157, 13);
+            this.txtcolleague2.TabIndex = 6;
+            // 
+            // txtcolleague1
+            // 
+            this.txtcolleague1.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.txtcolleague1.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtcolleague1.ForeColor = System.Drawing.SystemColors.Window;
+            this.txtcolleague1.Location = new System.Drawing.Point(18, 119);
+            this.txtcolleague1.Name = "txtcolleague1";
+            this.txtcolleague1.Size = new System.Drawing.Size(157, 13);
+            this.txtcolleague1.TabIndex = 5;
+            // 
+            // txtmanager
+            // 
+            this.txtmanager.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.txtmanager.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtmanager.ForeColor = System.Drawing.SystemColors.Window;
+            this.txtmanager.Location = new System.Drawing.Point(18, 62);
+            this.txtmanager.Name = "txtmanager";
+            this.txtmanager.Size = new System.Drawing.Size(157, 13);
+            this.txtmanager.TabIndex = 4;
             // 
             // label12
             // 
@@ -349,97 +340,114 @@
             this.label12.TabIndex = 3;
             this.label12.Text = "Your Direct Reports:";
             // 
-            // textBox6
+            // label11
             // 
-            this.textBox6.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.textBox6.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox6.ForeColor = System.Drawing.SystemColors.Window;
-            this.textBox6.Location = new System.Drawing.Point(18, 62);
-            this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(157, 13);
-            this.textBox6.TabIndex = 4;
+            this.label11.AutoSize = true;
+            this.label11.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label11.ForeColor = System.Drawing.Color.OliveDrab;
+            this.label11.Location = new System.Drawing.Point(18, 104);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(103, 13);
+            this.label11.TabIndex = 2;
+            this.label11.Text = "Your Colleagues:";
             // 
-            // textBox7
+            // label10
             // 
-            this.textBox7.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.textBox7.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox7.ForeColor = System.Drawing.SystemColors.Window;
-            this.textBox7.Location = new System.Drawing.Point(18, 119);
-            this.textBox7.Name = "textBox7";
-            this.textBox7.Size = new System.Drawing.Size(157, 13);
-            this.textBox7.TabIndex = 5;
+            this.label10.AutoSize = true;
+            this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label10.ForeColor = System.Drawing.Color.OliveDrab;
+            this.label10.Location = new System.Drawing.Point(18, 46);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(90, 13);
+            this.label10.TabIndex = 1;
+            this.label10.Text = "Your Manager:";
             // 
-            // textBox8
+            // label9
             // 
-            this.textBox8.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.textBox8.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox8.ForeColor = System.Drawing.SystemColors.Window;
-            this.textBox8.Location = new System.Drawing.Point(18, 146);
-            this.textBox8.Name = "textBox8";
-            this.textBox8.Size = new System.Drawing.Size(157, 13);
-            this.textBox8.TabIndex = 6;
+            this.label9.AutoSize = true;
+            this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label9.ForeColor = System.Drawing.Color.OliveDrab;
+            this.label9.Location = new System.Drawing.Point(18, 12);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(206, 13);
+            this.label9.TabIndex = 0;
+            this.label9.Text = "Great,so who else is on your team?";
             // 
-            // textBox9
+            // panel_client
             // 
-            this.textBox9.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.textBox9.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox9.ForeColor = System.Drawing.SystemColors.Window;
-            this.textBox9.Location = new System.Drawing.Point(18, 173);
-            this.textBox9.Name = "textBox9";
-            this.textBox9.Size = new System.Drawing.Size(157, 13);
-            this.textBox9.TabIndex = 7;
+            this.panel_client.Controls.Add(this.txtvendor3);
+            this.panel_client.Controls.Add(this.txtvendor2);
+            this.panel_client.Controls.Add(this.txtvendor1);
+            this.panel_client.Controls.Add(this.txtclient3);
+            this.panel_client.Controls.Add(this.txtclient2);
+            this.panel_client.Controls.Add(this.txtclient1);
+            this.panel_client.Controls.Add(this.label15);
+            this.panel_client.Controls.Add(this.label14);
+            this.panel_client.Controls.Add(this.label13);
+            this.panel_client.Location = new System.Drawing.Point(505, 69);
+            this.panel_client.Name = "panel_client";
+            this.panel_client.Size = new System.Drawing.Size(239, 357);
+            this.panel_client.TabIndex = 3;
             // 
-            // textBox10
+            // txtvendor3
             // 
-            this.textBox10.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.textBox10.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox10.ForeColor = System.Drawing.SystemColors.Window;
-            this.textBox10.Location = new System.Drawing.Point(18, 237);
-            this.textBox10.Name = "textBox10";
-            this.textBox10.Size = new System.Drawing.Size(157, 13);
-            this.textBox10.TabIndex = 8;
+            this.txtvendor3.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.txtvendor3.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtvendor3.ForeColor = System.Drawing.SystemColors.Window;
+            this.txtvendor3.Location = new System.Drawing.Point(7, 285);
+            this.txtvendor3.Name = "txtvendor3";
+            this.txtvendor3.Size = new System.Drawing.Size(144, 13);
+            this.txtvendor3.TabIndex = 8;
             // 
-            // textBox11
+            // txtvendor2
             // 
-            this.textBox11.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.textBox11.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox11.ForeColor = System.Drawing.SystemColors.Window;
-            this.textBox11.Location = new System.Drawing.Point(18, 263);
-            this.textBox11.Name = "textBox11";
-            this.textBox11.Size = new System.Drawing.Size(157, 13);
-            this.textBox11.TabIndex = 9;
+            this.txtvendor2.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.txtvendor2.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtvendor2.ForeColor = System.Drawing.SystemColors.Window;
+            this.txtvendor2.Location = new System.Drawing.Point(7, 248);
+            this.txtvendor2.Name = "txtvendor2";
+            this.txtvendor2.Size = new System.Drawing.Size(144, 13);
+            this.txtvendor2.TabIndex = 7;
             // 
-            // textBox12
+            // txtvendor1
             // 
-            this.textBox12.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.textBox12.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox12.ForeColor = System.Drawing.SystemColors.Window;
-            this.textBox12.Location = new System.Drawing.Point(18, 290);
-            this.textBox12.Name = "textBox12";
-            this.textBox12.Size = new System.Drawing.Size(157, 13);
-            this.textBox12.TabIndex = 10;
+            this.txtvendor1.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.txtvendor1.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtvendor1.ForeColor = System.Drawing.SystemColors.Window;
+            this.txtvendor1.Location = new System.Drawing.Point(7, 221);
+            this.txtvendor1.Name = "txtvendor1";
+            this.txtvendor1.Size = new System.Drawing.Size(144, 13);
+            this.txtvendor1.TabIndex = 6;
             // 
-            // label13
+            // txtclient3
             // 
-            this.label13.AutoSize = true;
-            this.label13.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label13.ForeColor = System.Drawing.Color.DarkOrange;
-            this.label13.Location = new System.Drawing.Point(4, 12);
-            this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(223, 13);
-            this.label13.TabIndex = 0;
-            this.label13.Text = "Nice to know!How about your clients?";
+            this.txtclient3.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.txtclient3.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtclient3.ForeColor = System.Drawing.SystemColors.Window;
+            this.txtclient3.Location = new System.Drawing.Point(7, 120);
+            this.txtclient3.Name = "txtclient3";
+            this.txtclient3.Size = new System.Drawing.Size(144, 13);
+            this.txtclient3.TabIndex = 5;
             // 
-            // label14
+            // txtclient2
             // 
-            this.label14.AutoSize = true;
-            this.label14.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label14.ForeColor = System.Drawing.Color.DarkOrange;
-            this.label14.Location = new System.Drawing.Point(4, 46);
-            this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(79, 13);
-            this.label14.TabIndex = 1;
-            this.label14.Text = "Your Clients:";
+            this.txtclient2.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.txtclient2.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtclient2.ForeColor = System.Drawing.SystemColors.Window;
+            this.txtclient2.Location = new System.Drawing.Point(7, 88);
+            this.txtclient2.Name = "txtclient2";
+            this.txtclient2.Size = new System.Drawing.Size(144, 13);
+            this.txtclient2.TabIndex = 4;
+            // 
+            // txtclient1
+            // 
+            this.txtclient1.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.txtclient1.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtclient1.ForeColor = System.Drawing.SystemColors.Window;
+            this.txtclient1.Location = new System.Drawing.Point(7, 62);
+            this.txtclient1.Name = "txtclient1";
+            this.txtclient1.Size = new System.Drawing.Size(144, 13);
+            this.txtclient1.TabIndex = 3;
             // 
             // label15
             // 
@@ -452,106 +460,138 @@
             this.label15.TabIndex = 2;
             this.label15.Text = "Your Vendors:";
             // 
-            // textBox13
+            // label14
             // 
-            this.textBox13.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.textBox13.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox13.ForeColor = System.Drawing.SystemColors.Window;
-            this.textBox13.Location = new System.Drawing.Point(7, 62);
-            this.textBox13.Name = "textBox13";
-            this.textBox13.Size = new System.Drawing.Size(144, 13);
-            this.textBox13.TabIndex = 3;
+            this.label14.AutoSize = true;
+            this.label14.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label14.ForeColor = System.Drawing.Color.DarkOrange;
+            this.label14.Location = new System.Drawing.Point(4, 46);
+            this.label14.Name = "label14";
+            this.label14.Size = new System.Drawing.Size(79, 13);
+            this.label14.TabIndex = 1;
+            this.label14.Text = "Your Clients:";
             // 
-            // textBox14
+            // label13
             // 
-            this.textBox14.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.textBox14.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox14.ForeColor = System.Drawing.SystemColors.Window;
-            this.textBox14.Location = new System.Drawing.Point(7, 88);
-            this.textBox14.Name = "textBox14";
-            this.textBox14.Size = new System.Drawing.Size(144, 13);
-            this.textBox14.TabIndex = 4;
+            this.label13.AutoSize = true;
+            this.label13.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label13.ForeColor = System.Drawing.Color.DarkOrange;
+            this.label13.Location = new System.Drawing.Point(4, 12);
+            this.label13.Name = "label13";
+            this.label13.Size = new System.Drawing.Size(223, 13);
+            this.label13.TabIndex = 0;
+            this.label13.Text = "Nice to know!How about your clients?";
             // 
-            // textBox15
+            // panel_other
             // 
-            this.textBox15.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.textBox15.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox15.ForeColor = System.Drawing.SystemColors.Window;
-            this.textBox15.Location = new System.Drawing.Point(7, 120);
-            this.textBox15.Name = "textBox15";
-            this.textBox15.Size = new System.Drawing.Size(144, 13);
-            this.textBox15.TabIndex = 5;
+            this.panel_other.Controls.Add(this.txtimp3);
+            this.panel_other.Controls.Add(this.txtimp2);
+            this.panel_other.Controls.Add(this.txtimp1);
+            this.panel_other.Controls.Add(this.txtfriend3);
+            this.panel_other.Controls.Add(this.txtfriend2);
+            this.panel_other.Controls.Add(this.txtfriend1);
+            this.panel_other.Controls.Add(this.txtinternal3);
+            this.panel_other.Controls.Add(this.txtinternal2);
+            this.panel_other.Controls.Add(this.txtinternal1);
+            this.panel_other.Controls.Add(this.label20);
+            this.panel_other.Controls.Add(this.label19);
+            this.panel_other.Controls.Add(this.label18);
+            this.panel_other.Controls.Add(this.label17);
+            this.panel_other.Controls.Add(this.label16);
+            this.panel_other.Location = new System.Drawing.Point(750, 69);
+            this.panel_other.Name = "panel_other";
+            this.panel_other.Size = new System.Drawing.Size(276, 357);
+            this.panel_other.TabIndex = 4;
             // 
-            // textBox16
+            // txtimp3
             // 
-            this.textBox16.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.textBox16.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox16.ForeColor = System.Drawing.SystemColors.Window;
-            this.textBox16.Location = new System.Drawing.Point(7, 221);
-            this.textBox16.Name = "textBox16";
-            this.textBox16.Size = new System.Drawing.Size(144, 13);
-            this.textBox16.TabIndex = 6;
+            this.txtimp3.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.txtimp3.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtimp3.ForeColor = System.Drawing.SystemColors.Window;
+            this.txtimp3.Location = new System.Drawing.Point(7, 317);
+            this.txtimp3.Name = "txtimp3";
+            this.txtimp3.Size = new System.Drawing.Size(157, 13);
+            this.txtimp3.TabIndex = 13;
             // 
-            // textBox17
+            // txtimp2
             // 
-            this.textBox17.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.textBox17.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox17.ForeColor = System.Drawing.SystemColors.Window;
-            this.textBox17.Location = new System.Drawing.Point(7, 248);
-            this.textBox17.Name = "textBox17";
-            this.textBox17.Size = new System.Drawing.Size(144, 13);
-            this.textBox17.TabIndex = 7;
+            this.txtimp2.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.txtimp2.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtimp2.ForeColor = System.Drawing.SystemColors.Window;
+            this.txtimp2.Location = new System.Drawing.Point(7, 290);
+            this.txtimp2.Name = "txtimp2";
+            this.txtimp2.Size = new System.Drawing.Size(157, 13);
+            this.txtimp2.TabIndex = 12;
             // 
-            // textBox18
+            // txtimp1
             // 
-            this.textBox18.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.textBox18.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox18.ForeColor = System.Drawing.SystemColors.Window;
-            this.textBox18.Location = new System.Drawing.Point(7, 285);
-            this.textBox18.Name = "textBox18";
-            this.textBox18.Size = new System.Drawing.Size(144, 13);
-            this.textBox18.TabIndex = 8;
+            this.txtimp1.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.txtimp1.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtimp1.ForeColor = System.Drawing.SystemColors.Window;
+            this.txtimp1.Location = new System.Drawing.Point(7, 262);
+            this.txtimp1.Name = "txtimp1";
+            this.txtimp1.Size = new System.Drawing.Size(157, 13);
+            this.txtimp1.TabIndex = 11;
             // 
-            // label16
+            // txtfriend3
             // 
-            this.label16.AutoSize = true;
-            this.label16.Location = new System.Drawing.Point(4, 11);
-            this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(0, 13);
-            this.label16.TabIndex = 0;
+            this.txtfriend3.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.txtfriend3.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtfriend3.ForeColor = System.Drawing.SystemColors.Window;
+            this.txtfriend3.Location = new System.Drawing.Point(7, 218);
+            this.txtfriend3.Name = "txtfriend3";
+            this.txtfriend3.Size = new System.Drawing.Size(157, 13);
+            this.txtfriend3.TabIndex = 10;
             // 
-            // label17
+            // txtfriend2
             // 
-            this.label17.AutoSize = true;
-            this.label17.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label17.ForeColor = System.Drawing.Color.MediumVioletRed;
-            this.label17.Location = new System.Drawing.Point(4, 12);
-            this.label17.Name = "label17";
-            this.label17.Size = new System.Drawing.Size(252, 13);
-            this.label17.TabIndex = 1;
-            this.label17.Text = "And,last but not least,other important folks:";
+            this.txtfriend2.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.txtfriend2.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtfriend2.ForeColor = System.Drawing.SystemColors.Window;
+            this.txtfriend2.Location = new System.Drawing.Point(7, 193);
+            this.txtfriend2.Name = "txtfriend2";
+            this.txtfriend2.Size = new System.Drawing.Size(157, 13);
+            this.txtfriend2.TabIndex = 9;
             // 
-            // label18
+            // txtfriend1
             // 
-            this.label18.AutoSize = true;
-            this.label18.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label18.ForeColor = System.Drawing.Color.MediumVioletRed;
-            this.label18.Location = new System.Drawing.Point(4, 46);
-            this.label18.Name = "label18";
-            this.label18.Size = new System.Drawing.Size(122, 13);
-            this.label18.TabIndex = 2;
-            this.label18.Text = "Other Internal Parts:";
+            this.txtfriend1.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.txtfriend1.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtfriend1.ForeColor = System.Drawing.SystemColors.Window;
+            this.txtfriend1.Location = new System.Drawing.Point(7, 166);
+            this.txtfriend1.Name = "txtfriend1";
+            this.txtfriend1.Size = new System.Drawing.Size(157, 13);
+            this.txtfriend1.TabIndex = 8;
             // 
-            // label19
+            // txtinternal3
             // 
-            this.label19.AutoSize = true;
-            this.label19.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label19.ForeColor = System.Drawing.Color.MediumVioletRed;
-            this.label19.Location = new System.Drawing.Point(4, 149);
-            this.label19.Name = "label19";
-            this.label19.Size = new System.Drawing.Size(192, 13);
-            this.label19.TabIndex = 3;
-            this.label19.Text = "Your friends inside the company:";
+            this.txtinternal3.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.txtinternal3.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtinternal3.ForeColor = System.Drawing.SystemColors.Window;
+            this.txtinternal3.Location = new System.Drawing.Point(7, 116);
+            this.txtinternal3.Name = "txtinternal3";
+            this.txtinternal3.Size = new System.Drawing.Size(157, 13);
+            this.txtinternal3.TabIndex = 7;
+            // 
+            // txtinternal2
+            // 
+            this.txtinternal2.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.txtinternal2.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtinternal2.ForeColor = System.Drawing.SystemColors.Window;
+            this.txtinternal2.Location = new System.Drawing.Point(7, 89);
+            this.txtinternal2.Name = "txtinternal2";
+            this.txtinternal2.Size = new System.Drawing.Size(157, 13);
+            this.txtinternal2.TabIndex = 6;
+            // 
+            // txtinternal1
+            // 
+            this.txtinternal1.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.txtinternal1.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtinternal1.ForeColor = System.Drawing.SystemColors.Window;
+            this.txtinternal1.Location = new System.Drawing.Point(7, 62);
+            this.txtinternal1.Name = "txtinternal1";
+            this.txtinternal1.Size = new System.Drawing.Size(157, 13);
+            this.txtinternal1.TabIndex = 5;
             // 
             // label20
             // 
@@ -564,101 +604,61 @@
             this.label20.TabIndex = 4;
             this.label20.Text = "Your family,friends,and anyone else important:";
             // 
-            // textBox19
+            // label19
             // 
-            this.textBox19.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.textBox19.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox19.ForeColor = System.Drawing.SystemColors.Window;
-            this.textBox19.Location = new System.Drawing.Point(7, 62);
-            this.textBox19.Name = "textBox19";
-            this.textBox19.Size = new System.Drawing.Size(157, 13);
-            this.textBox19.TabIndex = 5;
+            this.label19.AutoSize = true;
+            this.label19.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label19.ForeColor = System.Drawing.Color.MediumVioletRed;
+            this.label19.Location = new System.Drawing.Point(4, 149);
+            this.label19.Name = "label19";
+            this.label19.Size = new System.Drawing.Size(192, 13);
+            this.label19.TabIndex = 3;
+            this.label19.Text = "Your friends inside the company:";
             // 
-            // textBox20
+            // label18
             // 
-            this.textBox20.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.textBox20.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox20.ForeColor = System.Drawing.SystemColors.Window;
-            this.textBox20.Location = new System.Drawing.Point(7, 89);
-            this.textBox20.Name = "textBox20";
-            this.textBox20.Size = new System.Drawing.Size(157, 13);
-            this.textBox20.TabIndex = 6;
+            this.label18.AutoSize = true;
+            this.label18.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label18.ForeColor = System.Drawing.Color.MediumVioletRed;
+            this.label18.Location = new System.Drawing.Point(4, 46);
+            this.label18.Name = "label18";
+            this.label18.Size = new System.Drawing.Size(122, 13);
+            this.label18.TabIndex = 2;
+            this.label18.Text = "Other Internal Parts:";
             // 
-            // textBox21
+            // label17
             // 
-            this.textBox21.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.textBox21.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox21.ForeColor = System.Drawing.SystemColors.Window;
-            this.textBox21.Location = new System.Drawing.Point(7, 116);
-            this.textBox21.Name = "textBox21";
-            this.textBox21.Size = new System.Drawing.Size(157, 13);
-            this.textBox21.TabIndex = 7;
+            this.label17.AutoSize = true;
+            this.label17.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label17.ForeColor = System.Drawing.Color.MediumVioletRed;
+            this.label17.Location = new System.Drawing.Point(4, 12);
+            this.label17.Name = "label17";
+            this.label17.Size = new System.Drawing.Size(252, 13);
+            this.label17.TabIndex = 1;
+            this.label17.Text = "And,last but not least,other important folks:";
             // 
-            // textBox22
+            // label16
             // 
-            this.textBox22.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.textBox22.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox22.ForeColor = System.Drawing.SystemColors.Window;
-            this.textBox22.Location = new System.Drawing.Point(7, 166);
-            this.textBox22.Name = "textBox22";
-            this.textBox22.Size = new System.Drawing.Size(157, 13);
-            this.textBox22.TabIndex = 8;
+            this.label16.AutoSize = true;
+            this.label16.Location = new System.Drawing.Point(4, 11);
+            this.label16.Name = "label16";
+            this.label16.Size = new System.Drawing.Size(0, 13);
+            this.label16.TabIndex = 0;
             // 
-            // textBox23
+            // label4
             // 
-            this.textBox23.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.textBox23.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox23.ForeColor = System.Drawing.SystemColors.Window;
-            this.textBox23.Location = new System.Drawing.Point(7, 193);
-            this.textBox23.Name = "textBox23";
-            this.textBox23.Size = new System.Drawing.Size(157, 13);
-            this.textBox23.TabIndex = 9;
-            // 
-            // textBox24
-            // 
-            this.textBox24.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.textBox24.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox24.ForeColor = System.Drawing.SystemColors.Window;
-            this.textBox24.Location = new System.Drawing.Point(7, 218);
-            this.textBox24.Name = "textBox24";
-            this.textBox24.Size = new System.Drawing.Size(157, 13);
-            this.textBox24.TabIndex = 10;
-            // 
-            // textBox25
-            // 
-            this.textBox25.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.textBox25.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox25.ForeColor = System.Drawing.SystemColors.Window;
-            this.textBox25.Location = new System.Drawing.Point(7, 262);
-            this.textBox25.Name = "textBox25";
-            this.textBox25.Size = new System.Drawing.Size(157, 13);
-            this.textBox25.TabIndex = 11;
-            // 
-            // textBox26
-            // 
-            this.textBox26.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.textBox26.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox26.ForeColor = System.Drawing.SystemColors.Window;
-            this.textBox26.Location = new System.Drawing.Point(7, 290);
-            this.textBox26.Name = "textBox26";
-            this.textBox26.Size = new System.Drawing.Size(157, 13);
-            this.textBox26.TabIndex = 12;
-            // 
-            // textBox27
-            // 
-            this.textBox27.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.textBox27.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox27.ForeColor = System.Drawing.SystemColors.Window;
-            this.textBox27.Location = new System.Drawing.Point(7, 317);
-            this.textBox27.Name = "textBox27";
-            this.textBox27.Size = new System.Drawing.Size(157, 13);
-            this.textBox27.TabIndex = 13;
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(-48, 309);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(35, 13);
+            this.label4.TabIndex = 2;
+            this.label4.Text = "label4";
             // 
             // panel6
             // 
-            this.panel6.Controls.Add(this.button10);
-            this.panel6.Controls.Add(this.button9);
-            this.panel6.Controls.Add(this.button8);
+            this.panel6.Controls.Add(this.btnmeeting);
+            this.panel6.Controls.Add(this.btnweb);
+            this.panel6.Controls.Add(this.btnapp);
             this.panel6.Controls.Add(this.btnproject);
             this.panel6.Controls.Add(this.btnother);
             this.panel6.Controls.Add(this.btnclient);
@@ -671,41 +671,44 @@
             this.panel6.Size = new System.Drawing.Size(850, 59);
             this.panel6.TabIndex = 7;
             // 
-            // button10
+            // btnmeeting
             // 
-            this.button10.BackColor = System.Drawing.Color.Magenta;
-            this.button10.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button10.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.button10.Location = new System.Drawing.Point(760, 18);
-            this.button10.Name = "button10";
-            this.button10.Size = new System.Drawing.Size(75, 23);
-            this.button10.TabIndex = 9;
-            this.button10.Text = "Meeting";
-            this.button10.UseVisualStyleBackColor = false;
+            this.btnmeeting.BackColor = System.Drawing.Color.Magenta;
+            this.btnmeeting.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnmeeting.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.btnmeeting.Location = new System.Drawing.Point(760, 18);
+            this.btnmeeting.Name = "btnmeeting";
+            this.btnmeeting.Size = new System.Drawing.Size(75, 23);
+            this.btnmeeting.TabIndex = 9;
+            this.btnmeeting.Text = "Meeting";
+            this.btnmeeting.UseVisualStyleBackColor = false;
+            this.btnmeeting.Click += new System.EventHandler(this.button10_Click);
             // 
-            // button9
+            // btnweb
             // 
-            this.button9.BackColor = System.Drawing.Color.Chocolate;
-            this.button9.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button9.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.button9.Location = new System.Drawing.Point(667, 18);
-            this.button9.Name = "button9";
-            this.button9.Size = new System.Drawing.Size(75, 23);
-            this.button9.TabIndex = 8;
-            this.button9.Text = "Web";
-            this.button9.UseVisualStyleBackColor = false;
+            this.btnweb.BackColor = System.Drawing.Color.Chocolate;
+            this.btnweb.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnweb.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.btnweb.Location = new System.Drawing.Point(667, 18);
+            this.btnweb.Name = "btnweb";
+            this.btnweb.Size = new System.Drawing.Size(75, 23);
+            this.btnweb.TabIndex = 8;
+            this.btnweb.Text = "Web";
+            this.btnweb.UseVisualStyleBackColor = false;
+            this.btnweb.Click += new System.EventHandler(this.button9_Click);
             // 
-            // button8
+            // btnapp
             // 
-            this.button8.BackColor = System.Drawing.Color.OliveDrab;
-            this.button8.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button8.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.button8.Location = new System.Drawing.Point(585, 18);
-            this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(75, 23);
-            this.button8.TabIndex = 7;
-            this.button8.Text = "App";
-            this.button8.UseVisualStyleBackColor = false;
+            this.btnapp.BackColor = System.Drawing.Color.OliveDrab;
+            this.btnapp.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnapp.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.btnapp.Location = new System.Drawing.Point(585, 18);
+            this.btnapp.Name = "btnapp";
+            this.btnapp.Size = new System.Drawing.Size(75, 23);
+            this.btnapp.TabIndex = 7;
+            this.btnapp.Text = "App";
+            this.btnapp.UseVisualStyleBackColor = false;
+            this.btnapp.Click += new System.EventHandler(this.button8_Click);
             // 
             // btnproject
             // 
@@ -764,7 +767,7 @@
             this.btnself.BackColor = System.Drawing.Color.MediumPurple;
             this.btnself.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnself.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.btnself.Location = new System.Drawing.Point(175, 18);
+            this.btnself.Location = new System.Drawing.Point(175, 20);
             this.btnself.Name = "btnself";
             this.btnself.Size = new System.Drawing.Size(75, 23);
             this.btnself.TabIndex = 2;
@@ -831,11 +834,11 @@
 
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Panel panel_self;
-        private System.Windows.Forms.TextBox textBox5;
-        private System.Windows.Forms.TextBox textBox4;
-        private System.Windows.Forms.TextBox textBox3;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox txtpos;
+        private System.Windows.Forms.TextBox txtteam;
+        private System.Windows.Forms.TextBox txtdept;
+        private System.Windows.Forms.TextBox txtcompany;
+        private System.Windows.Forms.TextBox txtsname;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label5;
@@ -846,23 +849,23 @@
         private System.Windows.Forms.Panel panel_other;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label8;
-        private System.Windows.Forms.TextBox textBox12;
-        private System.Windows.Forms.TextBox textBox11;
-        private System.Windows.Forms.TextBox textBox10;
-        private System.Windows.Forms.TextBox textBox9;
-        private System.Windows.Forms.TextBox textBox8;
-        private System.Windows.Forms.TextBox textBox7;
-        private System.Windows.Forms.TextBox textBox6;
+        private System.Windows.Forms.TextBox txtreport3;
+        private System.Windows.Forms.TextBox txtreport2;
+        private System.Windows.Forms.TextBox txtreport1;
+        private System.Windows.Forms.TextBox txtcolleague3;
+        private System.Windows.Forms.TextBox txtcolleague2;
+        private System.Windows.Forms.TextBox txtcolleague1;
+        private System.Windows.Forms.TextBox txtmanager;
         private System.Windows.Forms.Label label12;
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.Label label10;
         private System.Windows.Forms.Label label9;
-        private System.Windows.Forms.TextBox textBox18;
-        private System.Windows.Forms.TextBox textBox17;
-        private System.Windows.Forms.TextBox textBox16;
-        private System.Windows.Forms.TextBox textBox15;
-        private System.Windows.Forms.TextBox textBox14;
-        private System.Windows.Forms.TextBox textBox13;
+        private System.Windows.Forms.TextBox txtvendor3;
+        private System.Windows.Forms.TextBox txtvendor2;
+        private System.Windows.Forms.TextBox txtvendor1;
+        private System.Windows.Forms.TextBox txtclient3;
+        private System.Windows.Forms.TextBox txtclient2;
+        private System.Windows.Forms.TextBox txtclient1;
         private System.Windows.Forms.Label label15;
         private System.Windows.Forms.Label label14;
         private System.Windows.Forms.Label label13;
@@ -871,19 +874,19 @@
         private System.Windows.Forms.Label label17;
         private System.Windows.Forms.Label label16;
         private System.Windows.Forms.Label label20;
-        private System.Windows.Forms.TextBox textBox27;
-        private System.Windows.Forms.TextBox textBox26;
-        private System.Windows.Forms.TextBox textBox25;
-        private System.Windows.Forms.TextBox textBox24;
-        private System.Windows.Forms.TextBox textBox23;
-        private System.Windows.Forms.TextBox textBox22;
-        private System.Windows.Forms.TextBox textBox21;
-        private System.Windows.Forms.TextBox textBox20;
-        private System.Windows.Forms.TextBox textBox19;
+        private System.Windows.Forms.TextBox txtimp3;
+        private System.Windows.Forms.TextBox txtimp2;
+        private System.Windows.Forms.TextBox txtimp1;
+        private System.Windows.Forms.TextBox txtfriend3;
+        private System.Windows.Forms.TextBox txtfriend2;
+        private System.Windows.Forms.TextBox txtfriend1;
+        private System.Windows.Forms.TextBox txtinternal3;
+        private System.Windows.Forms.TextBox txtinternal2;
+        private System.Windows.Forms.TextBox txtinternal1;
         private System.Windows.Forms.Panel panel6;
-        private System.Windows.Forms.Button button10;
-        private System.Windows.Forms.Button button9;
-        private System.Windows.Forms.Button button8;
+        private System.Windows.Forms.Button btnmeeting;
+        private System.Windows.Forms.Button btnweb;
+        private System.Windows.Forms.Button btnapp;
         private System.Windows.Forms.Button btnproject;
         private System.Windows.Forms.Button btnother;
         private System.Windows.Forms.Button btnclient;

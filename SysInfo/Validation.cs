@@ -7,5 +7,9 @@ namespace SysInfo
 {
     class Validation
     {
+        public void blank(String name)
+        {
+            
+        }
     }
 }

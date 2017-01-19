@@ -17,6 +17,7 @@ using Outlook = Microsoft.Office.Interop.Outlook;
 using Office = Microsoft.Office.Interop;
 using SHDocVw;
 using System.Data.SqlClient;
+using System.Text.RegularExpressions;
 
 namespace SysInfo
 {
@@ -25,6 +26,7 @@ namespace SysInfo
 
         private Custom_methods Custom_obj = new Custom_methods();
         private string Load_type="mail";
+        
         public Main_Form()
         {
             InitializeComponent();
@@ -253,46 +255,90 @@ namespace SysInfo
             panel_integrate.Visible = false;
             panel_agree.Visible = false;
             panel_welcome.Visible = false;
-            String name = txtname.Text;
-            String pwd = txtpassword.Text;
-            String email = txtemail.Text;
-            String con = Convert.ToInt32(txtphn_no.Text).ToString();
-            String skype = txtskype.Text;
-            String other = txtother_program.Text;
-            Custom_obj.insertData(name,pwd,email,con,skype,other);
+            if (txtname.Text != "" && (txtpassword.Text) != "" && (txtconfirmpwd.Text) != "" && (txtfinalpwd.Text) != "")
+            {
+                MessageBox.Show("Please Enter all fields");
+            }
+            if (txtconfirmpwd != txtfinalpwd)
+                MessageBox.Show("Both Passwords Should Match");
 
-        }
+            }
 
         private void btnintegrate_Click(object sender, EventArgs e)
         {
-            panel_register.Visible = false;
-            panel_integrate.Visible = true;
-            panel_agree.Visible = false;
-            panel_welcome.Visible = false;
+            if (txtname.Text != "" && (txtpassword.Text) != "" && (txtconfirmpwd.Text) != "" && (txtfinalpwd.Text) != "")
+            {
+                panel_register.Visible = false;
+                panel_integrate.Visible = true;
+                panel_agree.Visible = false;
+                panel_welcome.Visible = false;
+            }
+            else
+                MessageBox.Show("Please Fill All Details");
         }
 
         private void btnagree_Click(object sender, EventArgs e)
         {
-            panel_register.Visible = false;
-            panel_integrate.Visible = false;
-            panel_agree.Visible = true;
-            panel_welcome.Visible = false;
+            if (txtname.Text != "" && (txtpassword.Text) != "" && (txtconfirmpwd.Text) != "" && (txtfinalpwd.Text) != "" && txtemail.Text != "" && (txtphn_no.Text) != "" && (txtskype.Text) != "" && (txtother_program.Text) != "")
+            { 
+                string strRegex = @"^([a-zA-Z0-9_\-\.]+)@((\[[0-9]{1,3}" +
+         @"\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([a-zA-Z0-9\-]+\" +
+         @".)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\]?)$";
+                Regex re = new Regex(strRegex);
+                if (re.IsMatch(txtemail.Text))
+                {
+                    Regex r = new Regex("^9[0-9]{9}");
+
+                    if (r.IsMatch(txtphn_no.Text.Trim()) == true || txtphn_no.Text.Length > 10)
+                    {
+                        //if (Regex.Match(txtphn_no.Text, @"^(\+[0-9]{9})$").Success)
+                    //{
+                        panel_register.Visible = false;
+                        panel_integrate.Visible = false;
+                        panel_agree.Visible = true;
+                        panel_welcome.Visible = false;
+                    }
+                    else MessageBox.Show("Enter valid phone number");
+                }
+                else
+                    MessageBox.Show("Enter Valid Email id");
+            }
+            else MessageBox.Show("Please Enter all Details");
         }
 
         private void button5_Click(object sender, EventArgs e)
         {
-            panel_register.Visible = false;
-            panel_integrate.Visible = false;
-            panel_agree.Visible = false;
-            panel_welcome.Visible = true;
+            if (txtname.Text != "" && (txtpassword.Text) != "" && (txtconfirmpwd.Text) != "" && (txtfinalpwd.Text) != "" && txtemail.Text != "" && (txtphn_no.Text) != "" && (txtskype.Text) != "" && (txtother_program.Text) != "")
+            {
+                if (checkBox1.Checked)
+                {
+                    panel_register.Visible = false;
+                    panel_integrate.Visible = false;
+                    panel_agree.Visible = false;
+                    panel_welcome.Visible = true;
+                }
+                else MessageBox.Show("Please agree terms and conditions");
+            }
+            else MessageBox.Show("Fill all details");
         }
 
         private void btnsetup_Click(object sender, EventArgs e)
         {
-            //this.Dispose();
-            Setup s = new Setup();
-            s.Show();
-            
+            if (txtname.Text != "" && (txtpassword.Text) != "" && (txtconfirmpwd.Text) != "" && (txtfinalpwd.Text) != "" && txtemail.Text != "" && (txtphn_no.Text) != "" && (txtskype.Text) != "" && (txtother_program.Text) != "")
+            {
+                //this.Dispose();
+                String name = txtpassword.Text;
+                String pwd = txtfinalpwd.Text;
+                String email = txtemail.Text;
+                String con = txtphn_no.Text;
+                String skype = txtskype.Text;
+                String other = txtother_program.Text;
+                Custom_obj.insertData(name, pwd, email, con, skype, other);
+                Setup s = new Setup();
+                s.Show();
+                //this.Dispose();
+            }
+            else MessageBox.Show("Fill all details");
         }
     }
 

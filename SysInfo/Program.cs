@@ -24,7 +24,7 @@ namespace SysInfo
             }
             else
             {
-                Application.Run(new Main_Form());
+                Application.Run(new Feed());
             }
         }
     }

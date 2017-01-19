@@ -31,24 +31,24 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Feed));
             this.panel1 = new System.Windows.Forms.Panel();
             this.panel_goals = new System.Windows.Forms.Panel();
-            this.textBox14 = new System.Windows.Forms.TextBox();
+            this.txtgraph = new System.Windows.Forms.TextBox();
             this.checkedListBox1 = new System.Windows.Forms.CheckedListBox();
             this.label16 = new System.Windows.Forms.Label();
             this.label15 = new System.Windows.Forms.Label();
             this.label14 = new System.Windows.Forms.Label();
             this.panel_breakdown = new System.Windows.Forms.Panel();
-            this.textBox13 = new System.Windows.Forms.TextBox();
-            this.textBox12 = new System.Windows.Forms.TextBox();
-            this.textBox11 = new System.Windows.Forms.TextBox();
-            this.textBox10 = new System.Windows.Forms.TextBox();
-            this.textBox9 = new System.Windows.Forms.TextBox();
-            this.textBox8 = new System.Windows.Forms.TextBox();
-            this.textBox7 = new System.Windows.Forms.TextBox();
-            this.textBox6 = new System.Windows.Forms.TextBox();
-            this.textBox5 = new System.Windows.Forms.TextBox();
-            this.textBox4 = new System.Windows.Forms.TextBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.cb_workoutside = new System.Windows.Forms.ComboBox();
+            this.cb_getout = new System.Windows.Forms.ComboBox();
+            this.cb_idle = new System.Windows.Forms.ComboBox();
+            this.cb_personal = new System.Windows.Forms.ComboBox();
+            this.cb_distract = new System.Windows.Forms.ComboBox();
+            this.cb_lunch = new System.Windows.Forms.ComboBox();
+            this.cb_deliverable = new System.Windows.Forms.ComboBox();
+            this.cb_comm = new System.Windows.Forms.ComboBox();
+            this.cb_meeting = new System.Windows.Forms.ComboBox();
+            this.cb_email = new System.Windows.Forms.ComboBox();
+            this.cb_getin = new System.Windows.Forms.ComboBox();
+            this.cbbreak = new System.Windows.Forms.ComboBox();
             this.label13 = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
             this.label11 = new System.Windows.Forms.Label();
@@ -64,6 +64,7 @@
             this.label1 = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
             this.textBox1 = new System.Windows.Forms.TextBox();
+            this.button1 = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.panel_goals.SuspendLayout();
             this.panel_breakdown.SuspendLayout();
@@ -83,7 +84,8 @@
             // 
             // panel_goals
             // 
-            this.panel_goals.Controls.Add(this.textBox14);
+            this.panel_goals.Controls.Add(this.button1);
+            this.panel_goals.Controls.Add(this.txtgraph);
             this.panel_goals.Controls.Add(this.checkedListBox1);
             this.panel_goals.Controls.Add(this.label16);
             this.panel_goals.Controls.Add(this.label15);
@@ -92,13 +94,15 @@
             this.panel_goals.Name = "panel_goals";
             this.panel_goals.Size = new System.Drawing.Size(200, 366);
             this.panel_goals.TabIndex = 2;
+            //this.panel_goals.Paint += new System.Windows.Forms.PaintEventHandler(this.panel_goals_Paint);
             // 
-            // textBox14
+            // txtgraph
             // 
-            this.textBox14.Location = new System.Drawing.Point(20, 175);
-            this.textBox14.Name = "textBox14";
-            this.textBox14.Size = new System.Drawing.Size(133, 20);
-            this.textBox14.TabIndex = 4;
+            this.txtgraph.Location = new System.Drawing.Point(20, 175);
+            this.txtgraph.Name = "txtgraph";
+            this.txtgraph.Size = new System.Drawing.Size(133, 20);
+            this.txtgraph.TabIndex = 4;
+            //this.txtgraph.TextChanged += new System.EventHandler(this.txtgraph_TextChanged);
             // 
             // checkedListBox1
             // 
@@ -152,18 +156,18 @@
             // 
             // panel_breakdown
             // 
-            this.panel_breakdown.Controls.Add(this.textBox13);
-            this.panel_breakdown.Controls.Add(this.textBox12);
-            this.panel_breakdown.Controls.Add(this.textBox11);
-            this.panel_breakdown.Controls.Add(this.textBox10);
-            this.panel_breakdown.Controls.Add(this.textBox9);
-            this.panel_breakdown.Controls.Add(this.textBox8);
-            this.panel_breakdown.Controls.Add(this.textBox7);
-            this.panel_breakdown.Controls.Add(this.textBox6);
-            this.panel_breakdown.Controls.Add(this.textBox5);
-            this.panel_breakdown.Controls.Add(this.textBox4);
-            this.panel_breakdown.Controls.Add(this.textBox3);
-            this.panel_breakdown.Controls.Add(this.textBox2);
+            this.panel_breakdown.Controls.Add(this.cb_workoutside);
+            this.panel_breakdown.Controls.Add(this.cb_getout);
+            this.panel_breakdown.Controls.Add(this.cb_idle);
+            this.panel_breakdown.Controls.Add(this.cb_personal);
+            this.panel_breakdown.Controls.Add(this.cb_distract);
+            this.panel_breakdown.Controls.Add(this.cb_lunch);
+            this.panel_breakdown.Controls.Add(this.cb_deliverable);
+            this.panel_breakdown.Controls.Add(this.cb_comm);
+            this.panel_breakdown.Controls.Add(this.cb_meeting);
+            this.panel_breakdown.Controls.Add(this.cb_email);
+            this.panel_breakdown.Controls.Add(this.cb_getin);
+            this.panel_breakdown.Controls.Add(this.cbbreak);
             this.panel_breakdown.Controls.Add(this.label13);
             this.panel_breakdown.Controls.Add(this.label12);
             this.panel_breakdown.Controls.Add(this.label11);
@@ -179,92 +183,120 @@
             this.panel_breakdown.Controls.Add(this.label1);
             this.panel_breakdown.Location = new System.Drawing.Point(20, 108);
             this.panel_breakdown.Name = "panel_breakdown";
-            this.panel_breakdown.Size = new System.Drawing.Size(261, 370);
+            this.panel_breakdown.Size = new System.Drawing.Size(256, 370);
             this.panel_breakdown.TabIndex = 1;
+            //this.panel_breakdown.Paint += new System.Windows.Forms.PaintEventHandler(this.panel_breakdown_Paint);
             // 
-            // textBox13
+            // cb_workoutside
             // 
-            this.textBox13.Location = new System.Drawing.Point(150, 331);
-            this.textBox13.Name = "textBox13";
-            this.textBox13.Size = new System.Drawing.Size(100, 20);
-            this.textBox13.TabIndex = 24;
+            this.cb_workoutside.FormattingEnabled = true;
+            this.cb_workoutside.Items.AddRange(new object[] {
+            "Yes",
+            "No"});
+            this.cb_workoutside.Location = new System.Drawing.Point(154, 330);
+            this.cb_workoutside.Name = "cb_workoutside";
+            this.cb_workoutside.Size = new System.Drawing.Size(101, 21);
+            this.cb_workoutside.TabIndex = 24;
+            this.cb_workoutside.SelectedIndexChanged += new System.EventHandler(this.cb_workoutside_SelectedIndexChanged);
             // 
-            // textBox12
+            // cb_getout
             // 
-            this.textBox12.Location = new System.Drawing.Point(150, 306);
-            this.textBox12.Name = "textBox12";
-            this.textBox12.Size = new System.Drawing.Size(100, 20);
-            this.textBox12.TabIndex = 23;
+            this.cb_getout.FormattingEnabled = true;
+            this.cb_getout.Location = new System.Drawing.Point(154, 303);
+            this.cb_getout.Name = "cb_getout";
+            this.cb_getout.Size = new System.Drawing.Size(101, 21);
+            this.cb_getout.TabIndex = 23;
+            //this.cb_getout.SelectedIndexChanged += new System.EventHandler(this.cb_getout_SelectedIndexChanged);
             // 
-            // textBox11
+            // cb_idle
             // 
-            this.textBox11.Location = new System.Drawing.Point(150, 279);
-            this.textBox11.Name = "textBox11";
-            this.textBox11.Size = new System.Drawing.Size(100, 20);
-            this.textBox11.TabIndex = 22;
+            this.cb_idle.FormattingEnabled = true;
+            this.cb_idle.Location = new System.Drawing.Point(154, 274);
+            this.cb_idle.Name = "cb_idle";
+            this.cb_idle.Size = new System.Drawing.Size(101, 21);
+            this.cb_idle.TabIndex = 22;
+            //this.cb_idle.SelectedIndexChanged += new System.EventHandler(this.cb_idle_SelectedIndexChanged);
             // 
-            // textBox10
+            // cb_personal
             // 
-            this.textBox10.Location = new System.Drawing.Point(150, 252);
-            this.textBox10.Name = "textBox10";
-            this.textBox10.Size = new System.Drawing.Size(100, 20);
-            this.textBox10.TabIndex = 21;
+            this.cb_personal.FormattingEnabled = true;
+            this.cb_personal.Location = new System.Drawing.Point(154, 213);
+            this.cb_personal.Name = "cb_personal";
+            this.cb_personal.Size = new System.Drawing.Size(101, 21);
+            this.cb_personal.TabIndex = 21;
+            //this.cb_personal.SelectedIndexChanged += new System.EventHandler(this.cb_personal_SelectedIndexChanged);
             // 
-            // textBox9
+            // cb_distract
             // 
-            this.textBox9.Location = new System.Drawing.Point(150, 220);
-            this.textBox9.Name = "textBox9";
-            this.textBox9.Size = new System.Drawing.Size(100, 20);
-            this.textBox9.TabIndex = 20;
+            this.cb_distract.FormattingEnabled = true;
+            this.cb_distract.Location = new System.Drawing.Point(154, 249);
+            this.cb_distract.Name = "cb_distract";
+            this.cb_distract.Size = new System.Drawing.Size(101, 21);
+            this.cb_distract.TabIndex = 20;
+            //this.cb_distract.SelectedIndexChanged += new System.EventHandler(this.cb_distract_SelectedIndexChanged);
             // 
-            // textBox8
+            // cb_lunch
             // 
-            this.textBox8.Location = new System.Drawing.Point(150, 193);
-            this.textBox8.Name = "textBox8";
-            this.textBox8.Size = new System.Drawing.Size(100, 20);
-            this.textBox8.TabIndex = 19;
+            this.cb_lunch.FormattingEnabled = true;
+            this.cb_lunch.Location = new System.Drawing.Point(154, 190);
+            this.cb_lunch.Name = "cb_lunch";
+            this.cb_lunch.Size = new System.Drawing.Size(101, 21);
+            this.cb_lunch.TabIndex = 19;
+            //this.cb_lunch.SelectedIndexChanged += new System.EventHandler(this.cb_lunch_SelectedIndexChanged);
             // 
-            // textBox7
+            // cb_deliverable
             // 
-            this.textBox7.Location = new System.Drawing.Point(150, 164);
-            this.textBox7.Name = "textBox7";
-            this.textBox7.Size = new System.Drawing.Size(100, 20);
-            this.textBox7.TabIndex = 18;
+            this.cb_deliverable.FormattingEnabled = true;
+            this.cb_deliverable.Location = new System.Drawing.Point(154, 132);
+            this.cb_deliverable.Name = "cb_deliverable";
+            this.cb_deliverable.Size = new System.Drawing.Size(101, 21);
+            this.cb_deliverable.TabIndex = 18;
+            //this.cb_deliverable.SelectedIndexChanged += new System.EventHandler(this.bd_deliverable_SelectedIndexChanged);
             // 
-            // textBox6
+            // cb_comm
             // 
-            this.textBox6.Location = new System.Drawing.Point(150, 137);
-            this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(100, 20);
-            this.textBox6.TabIndex = 17;
+            this.cb_comm.FormattingEnabled = true;
+            this.cb_comm.Location = new System.Drawing.Point(154, 159);
+            this.cb_comm.Name = "cb_comm";
+            this.cb_comm.Size = new System.Drawing.Size(101, 21);
+            this.cb_comm.TabIndex = 17;
+            //this.cb_comm.SelectedIndexChanged += new System.EventHandler(this.cb_comm_SelectedIndexChanged);
             // 
-            // textBox5
+            // cb_meeting
             // 
-            this.textBox5.Location = new System.Drawing.Point(150, 110);
-            this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(100, 20);
-            this.textBox5.TabIndex = 16;
+            this.cb_meeting.FormattingEnabled = true;
+            this.cb_meeting.Location = new System.Drawing.Point(154, 105);
+            this.cb_meeting.Name = "cb_meeting";
+            this.cb_meeting.Size = new System.Drawing.Size(101, 21);
+            this.cb_meeting.TabIndex = 16;
+            //this.cb_meeting.SelectedIndexChanged += new System.EventHandler(this.cb_meeting_SelectedIndexChanged);
             // 
-            // textBox4
+            // cb_email
             // 
-            this.textBox4.Location = new System.Drawing.Point(150, 83);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(100, 20);
-            this.textBox4.TabIndex = 15;
+            this.cb_email.FormattingEnabled = true;
+            this.cb_email.Location = new System.Drawing.Point(154, 79);
+            this.cb_email.Name = "cb_email";
+            this.cb_email.Size = new System.Drawing.Size(101, 21);
+            this.cb_email.TabIndex = 15;
+            //this.cb_email.SelectedIndexChanged += new System.EventHandler(this.cb_email_SelectedIndexChanged);
             // 
-            // textBox3
+            // cb_getin
             // 
-            this.textBox3.Location = new System.Drawing.Point(150, 58);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(100, 20);
-            this.textBox3.TabIndex = 14;
+            this.cb_getin.FormattingEnabled = true;
+            this.cb_getin.Location = new System.Drawing.Point(154, 54);
+            this.cb_getin.Name = "cb_getin";
+            this.cb_getin.Size = new System.Drawing.Size(101, 21);
+            this.cb_getin.TabIndex = 14;
+            //this.cb_getin.SelectedIndexChanged += new System.EventHandler(this.cb_getin_SelectedIndexChanged);
             // 
-            // textBox2
+            // cbbreak
             // 
-            this.textBox2.Location = new System.Drawing.Point(150, 31);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(100, 20);
-            this.textBox2.TabIndex = 13;
+            this.cbbreak.FormattingEnabled = true;
+            this.cbbreak.Location = new System.Drawing.Point(154, 28);
+            this.cbbreak.Name = "cbbreak";
+            this.cbbreak.Size = new System.Drawing.Size(101, 21);
+            this.cbbreak.TabIndex = 13;
+            //this.cbbreak.SelectedIndexChanged += new System.EventHandler(this.cbbreak_SelectedIndexChanged);
             // 
             // label13
             // 
@@ -430,6 +462,16 @@
             this.textBox1.TabIndex = 0;
             this.textBox1.Text = resources.GetString("textBox1.Text");
             // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(55, 237);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(93, 24);
+            this.button1.TabIndex = 5;
+            this.button1.Text = "Register";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
             // Feed
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -453,24 +495,12 @@
 
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Panel panel_goals;
-        private System.Windows.Forms.TextBox textBox14;
+        private System.Windows.Forms.TextBox txtgraph;
         private System.Windows.Forms.CheckedListBox checkedListBox1;
         private System.Windows.Forms.Label label16;
         private System.Windows.Forms.Label label15;
         private System.Windows.Forms.Label label14;
         private System.Windows.Forms.Panel panel_breakdown;
-        private System.Windows.Forms.TextBox textBox13;
-        private System.Windows.Forms.TextBox textBox12;
-        private System.Windows.Forms.TextBox textBox11;
-        private System.Windows.Forms.TextBox textBox10;
-        private System.Windows.Forms.TextBox textBox9;
-        private System.Windows.Forms.TextBox textBox8;
-        private System.Windows.Forms.TextBox textBox7;
-        private System.Windows.Forms.TextBox textBox6;
-        private System.Windows.Forms.TextBox textBox5;
-        private System.Windows.Forms.TextBox textBox4;
-        private System.Windows.Forms.TextBox textBox3;
-        private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.Label label13;
         private System.Windows.Forms.Label label12;
         private System.Windows.Forms.Label label11;
@@ -486,5 +516,18 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Panel panel2;
         private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.ComboBox cb_workoutside;
+        private System.Windows.Forms.ComboBox cb_getout;
+        private System.Windows.Forms.ComboBox cb_idle;
+        private System.Windows.Forms.ComboBox cb_personal;
+        private System.Windows.Forms.ComboBox cb_distract;
+        private System.Windows.Forms.ComboBox cb_lunch;
+        private System.Windows.Forms.ComboBox cb_deliverable;
+        private System.Windows.Forms.ComboBox cb_comm;
+        private System.Windows.Forms.ComboBox cb_meeting;
+        private System.Windows.Forms.ComboBox cb_email;
+        private System.Windows.Forms.ComboBox cb_getin;
+        private System.Windows.Forms.ComboBox cbbreak;
+        private System.Windows.Forms.Button button1;
     }
 }

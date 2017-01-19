@@ -32,11 +32,11 @@
             this.panel1 = new System.Windows.Forms.Panel();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.panel_project = new System.Windows.Forms.Panel();
-            this.textBox6 = new System.Windows.Forms.TextBox();
-            this.textBox5 = new System.Windows.Forms.TextBox();
-            this.textBox4 = new System.Windows.Forms.TextBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.txtposition = new System.Windows.Forms.TextBox();
+            this.txtanother2 = new System.Windows.Forms.TextBox();
+            this.txtanother1 = new System.Windows.Forms.TextBox();
+            this.txtsecondary = new System.Windows.Forms.TextBox();
+            this.txtprimary = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
@@ -44,21 +44,21 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.panel_app = new System.Windows.Forms.Panel();
-            this.checkedListBox2 = new System.Windows.Forms.CheckedListBox();
-            this.checkedListBox1 = new System.Windows.Forms.CheckedListBox();
+            this.check_distract = new System.Windows.Forms.CheckedListBox();
+            this.check_work = new System.Windows.Forms.CheckedListBox();
             this.label9 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.panel_web = new System.Windows.Forms.Panel();
-            this.textBox7 = new System.Windows.Forms.TextBox();
-            this.checkedListBox4 = new System.Windows.Forms.CheckedListBox();
-            this.checkedListBox3 = new System.Windows.Forms.CheckedListBox();
+            this.txtdomain = new System.Windows.Forms.TextBox();
+            this.check_web_distract = new System.Windows.Forms.CheckedListBox();
+            this.check_web_work = new System.Windows.Forms.CheckedListBox();
             this.label13 = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
             this.label11 = new System.Windows.Forms.Label();
             this.label10 = new System.Windows.Forms.Label();
             this.panel_meeting = new System.Windows.Forms.Panel();
-            this.checkedListBox5 = new System.Windows.Forms.CheckedListBox();
+            this.check_meeting = new System.Windows.Forms.CheckedListBox();
             this.label15 = new System.Windows.Forms.Label();
             this.label14 = new System.Windows.Forms.Label();
             this.panel6 = new System.Windows.Forms.Panel();
@@ -103,11 +103,11 @@
             // 
             // panel_project
             // 
-            this.panel_project.Controls.Add(this.textBox6);
-            this.panel_project.Controls.Add(this.textBox5);
-            this.panel_project.Controls.Add(this.textBox4);
-            this.panel_project.Controls.Add(this.textBox3);
-            this.panel_project.Controls.Add(this.textBox2);
+            this.panel_project.Controls.Add(this.txtposition);
+            this.panel_project.Controls.Add(this.txtanother2);
+            this.panel_project.Controls.Add(this.txtanother1);
+            this.panel_project.Controls.Add(this.txtsecondary);
+            this.panel_project.Controls.Add(this.txtprimary);
             this.panel_project.Controls.Add(this.label6);
             this.panel_project.Controls.Add(this.label5);
             this.panel_project.Controls.Add(this.label4);
@@ -120,55 +120,55 @@
             this.panel_project.TabIndex = 1;
             this.panel_project.Paint += new System.Windows.Forms.PaintEventHandler(this.panel_project_Paint);
             // 
-            // textBox6
+            // txtposition
             // 
-            this.textBox6.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.textBox6.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox6.ForeColor = System.Drawing.SystemColors.Window;
-            this.textBox6.Location = new System.Drawing.Point(15, 257);
-            this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(140, 13);
-            this.textBox6.TabIndex = 10;
+            this.txtposition.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.txtposition.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtposition.ForeColor = System.Drawing.SystemColors.Window;
+            this.txtposition.Location = new System.Drawing.Point(15, 257);
+            this.txtposition.Name = "txtposition";
+            this.txtposition.Size = new System.Drawing.Size(140, 13);
+            this.txtposition.TabIndex = 10;
             // 
-            // textBox5
+            // txtanother2
             // 
-            this.textBox5.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.textBox5.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox5.ForeColor = System.Drawing.SystemColors.Window;
-            this.textBox5.Location = new System.Drawing.Point(15, 205);
-            this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(139, 13);
-            this.textBox5.TabIndex = 9;
+            this.txtanother2.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.txtanother2.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtanother2.ForeColor = System.Drawing.SystemColors.Window;
+            this.txtanother2.Location = new System.Drawing.Point(15, 205);
+            this.txtanother2.Name = "txtanother2";
+            this.txtanother2.Size = new System.Drawing.Size(139, 13);
+            this.txtanother2.TabIndex = 9;
             // 
-            // textBox4
+            // txtanother1
             // 
-            this.textBox4.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.textBox4.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox4.ForeColor = System.Drawing.SystemColors.Window;
-            this.textBox4.Location = new System.Drawing.Point(18, 153);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(136, 13);
-            this.textBox4.TabIndex = 8;
+            this.txtanother1.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.txtanother1.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtanother1.ForeColor = System.Drawing.SystemColors.Window;
+            this.txtanother1.Location = new System.Drawing.Point(18, 153);
+            this.txtanother1.Name = "txtanother1";
+            this.txtanother1.Size = new System.Drawing.Size(136, 13);
+            this.txtanother1.TabIndex = 8;
             // 
-            // textBox3
+            // txtsecondary
             // 
-            this.textBox3.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.textBox3.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox3.ForeColor = System.Drawing.SystemColors.Window;
-            this.textBox3.Location = new System.Drawing.Point(18, 104);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(137, 13);
-            this.textBox3.TabIndex = 7;
+            this.txtsecondary.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.txtsecondary.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtsecondary.ForeColor = System.Drawing.SystemColors.Window;
+            this.txtsecondary.Location = new System.Drawing.Point(18, 104);
+            this.txtsecondary.Name = "txtsecondary";
+            this.txtsecondary.Size = new System.Drawing.Size(137, 13);
+            this.txtsecondary.TabIndex = 7;
             // 
-            // textBox2
+            // txtprimary
             // 
-            this.textBox2.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.textBox2.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox2.ForeColor = System.Drawing.SystemColors.Window;
-            this.textBox2.Location = new System.Drawing.Point(18, 54);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(137, 13);
-            this.textBox2.TabIndex = 6;
+            this.txtprimary.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.txtprimary.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtprimary.ForeColor = System.Drawing.SystemColors.Window;
+            this.txtprimary.Location = new System.Drawing.Point(18, 54);
+            this.txtprimary.Name = "txtprimary";
+            this.txtprimary.Size = new System.Drawing.Size(137, 13);
+            this.txtprimary.TabIndex = 6;
             // 
             // label6
             // 
@@ -238,8 +238,8 @@
             // 
             // panel_app
             // 
-            this.panel_app.Controls.Add(this.checkedListBox2);
-            this.panel_app.Controls.Add(this.checkedListBox1);
+            this.panel_app.Controls.Add(this.check_distract);
+            this.panel_app.Controls.Add(this.check_work);
             this.panel_app.Controls.Add(this.label9);
             this.panel_app.Controls.Add(this.label8);
             this.panel_app.Controls.Add(this.label7);
@@ -248,43 +248,43 @@
             this.panel_app.Size = new System.Drawing.Size(200, 348);
             this.panel_app.TabIndex = 2;
             // 
-            // checkedListBox2
+            // check_distract
             // 
-            this.checkedListBox2.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.checkedListBox2.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.checkedListBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.checkedListBox2.ForeColor = System.Drawing.SystemColors.Window;
-            this.checkedListBox2.FormattingEnabled = true;
-            this.checkedListBox2.Items.AddRange(new object[] {
+            this.check_distract.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.check_distract.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.check_distract.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.check_distract.ForeColor = System.Drawing.SystemColors.Window;
+            this.check_distract.FormattingEnabled = true;
+            this.check_distract.Items.AddRange(new object[] {
             "Calculator",
             "Excel 2016",
             "Google Chrome",
             "Outlook 2016",
             "Powerpoint 2016",
             "spotify"});
-            this.checkedListBox2.Location = new System.Drawing.Point(9, 218);
-            this.checkedListBox2.Name = "checkedListBox2";
-            this.checkedListBox2.Size = new System.Drawing.Size(148, 90);
-            this.checkedListBox2.TabIndex = 3;
+            this.check_distract.Location = new System.Drawing.Point(9, 218);
+            this.check_distract.Name = "check_distract";
+            this.check_distract.Size = new System.Drawing.Size(148, 90);
+            this.check_distract.TabIndex = 3;
             // 
-            // checkedListBox1
+            // check_work
             // 
-            this.checkedListBox1.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.checkedListBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.checkedListBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.checkedListBox1.ForeColor = System.Drawing.SystemColors.Window;
-            this.checkedListBox1.FormattingEnabled = true;
-            this.checkedListBox1.Items.AddRange(new object[] {
+            this.check_work.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.check_work.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.check_work.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.check_work.ForeColor = System.Drawing.SystemColors.Window;
+            this.check_work.FormattingEnabled = true;
+            this.check_work.Items.AddRange(new object[] {
             "Calculator",
             "Excel 2016",
             "Google Chrome",
             "Outlook 2016",
             "Powerpoint 2016",
             "spotify"});
-            this.checkedListBox1.Location = new System.Drawing.Point(12, 65);
-            this.checkedListBox1.Name = "checkedListBox1";
-            this.checkedListBox1.Size = new System.Drawing.Size(145, 90);
-            this.checkedListBox1.TabIndex = 0;
+            this.check_work.Location = new System.Drawing.Point(12, 65);
+            this.check_work.Name = "check_work";
+            this.check_work.Size = new System.Drawing.Size(145, 90);
+            this.check_work.TabIndex = 0;
             // 
             // label9
             // 
@@ -321,9 +321,9 @@
             // 
             // panel_web
             // 
-            this.panel_web.Controls.Add(this.textBox7);
-            this.panel_web.Controls.Add(this.checkedListBox4);
-            this.panel_web.Controls.Add(this.checkedListBox3);
+            this.panel_web.Controls.Add(this.txtdomain);
+            this.panel_web.Controls.Add(this.check_web_distract);
+            this.panel_web.Controls.Add(this.check_web_work);
             this.panel_web.Controls.Add(this.label13);
             this.panel_web.Controls.Add(this.label12);
             this.panel_web.Controls.Add(this.label11);
@@ -333,53 +333,53 @@
             this.panel_web.Size = new System.Drawing.Size(214, 348);
             this.panel_web.TabIndex = 3;
             // 
-            // textBox7
+            // txtdomain
             // 
-            this.textBox7.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.textBox7.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox7.ForeColor = System.Drawing.SystemColors.Window;
-            this.textBox7.Location = new System.Drawing.Point(10, 53);
-            this.textBox7.Name = "textBox7";
-            this.textBox7.Size = new System.Drawing.Size(138, 13);
-            this.textBox7.TabIndex = 6;
+            this.txtdomain.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.txtdomain.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtdomain.ForeColor = System.Drawing.SystemColors.Window;
+            this.txtdomain.Location = new System.Drawing.Point(10, 53);
+            this.txtdomain.Name = "txtdomain";
+            this.txtdomain.Size = new System.Drawing.Size(138, 13);
+            this.txtdomain.TabIndex = 6;
             // 
-            // checkedListBox4
+            // check_web_distract
             // 
-            this.checkedListBox4.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.checkedListBox4.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.checkedListBox4.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.checkedListBox4.ForeColor = System.Drawing.SystemColors.Window;
-            this.checkedListBox4.FormattingEnabled = true;
-            this.checkedListBox4.Items.AddRange(new object[] {
+            this.check_web_distract.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.check_web_distract.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.check_web_distract.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.check_web_distract.ForeColor = System.Drawing.SystemColors.Window;
+            this.check_web_distract.FormattingEnabled = true;
+            this.check_web_distract.Items.AddRange(new object[] {
             "etrade",
             "facebook",
             "google",
             "google finance",
             "google maps",
             "hotwire"});
-            this.checkedListBox4.Location = new System.Drawing.Point(7, 241);
-            this.checkedListBox4.Name = "checkedListBox4";
-            this.checkedListBox4.Size = new System.Drawing.Size(120, 90);
-            this.checkedListBox4.TabIndex = 5;
+            this.check_web_distract.Location = new System.Drawing.Point(7, 241);
+            this.check_web_distract.Name = "check_web_distract";
+            this.check_web_distract.Size = new System.Drawing.Size(120, 90);
+            this.check_web_distract.TabIndex = 5;
             // 
-            // checkedListBox3
+            // check_web_work
             // 
-            this.checkedListBox3.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.checkedListBox3.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.checkedListBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.checkedListBox3.ForeColor = System.Drawing.SystemColors.Window;
-            this.checkedListBox3.FormattingEnabled = true;
-            this.checkedListBox3.Items.AddRange(new object[] {
+            this.check_web_work.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.check_web_work.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.check_web_work.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.check_web_work.ForeColor = System.Drawing.SystemColors.Window;
+            this.check_web_work.FormattingEnabled = true;
+            this.check_web_work.Items.AddRange(new object[] {
             "etrade",
             "facebook",
             "google",
             "google finance",
             "google maps",
             "hotwire"});
-            this.checkedListBox3.Location = new System.Drawing.Point(10, 108);
-            this.checkedListBox3.Name = "checkedListBox3";
-            this.checkedListBox3.Size = new System.Drawing.Size(120, 90);
-            this.checkedListBox3.TabIndex = 4;
+            this.check_web_work.Location = new System.Drawing.Point(10, 108);
+            this.check_web_work.Name = "check_web_work";
+            this.check_web_work.Size = new System.Drawing.Size(120, 90);
+            this.check_web_work.TabIndex = 4;
             // 
             // label13
             // 
@@ -427,7 +427,7 @@
             // 
             // panel_meeting
             // 
-            this.panel_meeting.Controls.Add(this.checkedListBox5);
+            this.panel_meeting.Controls.Add(this.check_meeting);
             this.panel_meeting.Controls.Add(this.label15);
             this.panel_meeting.Controls.Add(this.label14);
             this.panel_meeting.Location = new System.Drawing.Point(671, 99);
@@ -435,23 +435,23 @@
             this.panel_meeting.Size = new System.Drawing.Size(223, 348);
             this.panel_meeting.TabIndex = 4;
             // 
-            // checkedListBox5
+            // check_meeting
             // 
-            this.checkedListBox5.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.checkedListBox5.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.checkedListBox5.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.checkedListBox5.ForeColor = System.Drawing.SystemColors.Window;
-            this.checkedListBox5.FormattingEnabled = true;
-            this.checkedListBox5.Items.AddRange(new object[] {
+            this.check_meeting.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.check_meeting.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.check_meeting.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.check_meeting.ForeColor = System.Drawing.SystemColors.Window;
+            this.check_meeting.FormattingEnabled = true;
+            this.check_meeting.Items.AddRange(new object[] {
             "Team meeting",
             "Personal meeting",
             "Client meeting",
             "reminder,to-do,etc",
             "out-of-office"});
-            this.checkedListBox5.Location = new System.Drawing.Point(20, 74);
-            this.checkedListBox5.Name = "checkedListBox5";
-            this.checkedListBox5.Size = new System.Drawing.Size(138, 90);
-            this.checkedListBox5.TabIndex = 2;
+            this.check_meeting.Location = new System.Drawing.Point(20, 74);
+            this.check_meeting.Name = "check_meeting";
+            this.check_meeting.Size = new System.Drawing.Size(138, 90);
+            this.check_meeting.TabIndex = 2;
             // 
             // label15
             // 
@@ -659,11 +659,11 @@
         private System.Windows.Forms.Panel panel_app;
         private System.Windows.Forms.Panel panel_web;
         private System.Windows.Forms.Panel panel_meeting;
-        private System.Windows.Forms.TextBox textBox6;
-        private System.Windows.Forms.TextBox textBox5;
-        private System.Windows.Forms.TextBox textBox4;
-        private System.Windows.Forms.TextBox textBox3;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox txtposition;
+        private System.Windows.Forms.TextBox txtanother2;
+        private System.Windows.Forms.TextBox txtanother1;
+        private System.Windows.Forms.TextBox txtsecondary;
+        private System.Windows.Forms.TextBox txtprimary;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label4;
@@ -684,16 +684,16 @@
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.CheckedListBox checkedListBox2;
-        private System.Windows.Forms.CheckedListBox checkedListBox1;
-        private System.Windows.Forms.TextBox textBox7;
-        private System.Windows.Forms.CheckedListBox checkedListBox4;
-        private System.Windows.Forms.CheckedListBox checkedListBox3;
+        private System.Windows.Forms.CheckedListBox check_distract;
+        private System.Windows.Forms.CheckedListBox check_work;
+        private System.Windows.Forms.TextBox txtdomain;
+        private System.Windows.Forms.CheckedListBox check_web_distract;
+        private System.Windows.Forms.CheckedListBox check_web_work;
         private System.Windows.Forms.Label label13;
         private System.Windows.Forms.Label label12;
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.Label label10;
-        private System.Windows.Forms.CheckedListBox checkedListBox5;
+        private System.Windows.Forms.CheckedListBox check_meeting;
         private System.Windows.Forms.Label label15;
         private System.Windows.Forms.Label label14;
     }
