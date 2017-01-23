@@ -324,6 +324,11 @@ namespace SysInfo
                 Custom_obj.write_log_file("---------Insert Error--------","-----The Error is------",ex.Message);
             }
         }
+
+        private void btnForgot_Click(object sender, EventArgs e)
+        {
+            
+        }
     }
 
     public static class HookManager
