@@ -177,6 +177,7 @@ C:\Users\Sonali\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\obj\x86\De
 C:\Users\Sonali\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.Feed.resources
 C:\Users\Sonali\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.project.resources
 C:\Users\Sonali\Documents\Visual Studio 2015\Projects\SysInfo\SysInfo\obj\x86\Debug\SysInfo.Setup.resources
+<<<<<<< HEAD
 E:\Projects\zeitghost\SysInfo\bin\Debug\SysInfo.exe.config
 E:\Projects\zeitghost\SysInfo\obj\x86\Debug\Interop.ADOX.dll
 E:\Projects\zeitghost\SysInfo\obj\x86\Debug\Interop.SHDocVw.dll
@@ -197,3 +198,25 @@ E:\Projects\zeitghost\SysInfo\obj\x86\Debug\SysInfo.project.resources
 E:\Projects\zeitghost\SysInfo\obj\x86\Debug\SysInfo.Properties.Resources.resources
 E:\Projects\zeitghost\SysInfo\obj\x86\Debug\SysInfo.Setup.resources
 E:\Projects\zeitghost\SysInfo\obj\x86\Debug\SysInfo.csproj.GenerateResource.Cache
+=======
+D:\Projects\zeitghost\SysInfo\bin\Debug\SysInfo.exe.config
+D:\Projects\zeitghost\SysInfo\obj\x86\Debug\Interop.ADOX.dll
+D:\Projects\zeitghost\SysInfo\obj\x86\Debug\Interop.SHDocVw.dll
+D:\Projects\zeitghost\SysInfo\obj\x86\Debug\SysInfo.csproj.ResolveComReference.cache
+D:\Projects\zeitghost\SysInfo\obj\x86\Debug\SysInfo.exe
+D:\Projects\zeitghost\SysInfo\obj\x86\Debug\SysInfo.pdb
+D:\Projects\zeitghost\SysInfo\bin\Debug\SysInfo.exe
+D:\Projects\zeitghost\SysInfo\bin\Debug\SysInfo.pdb
+D:\Projects\zeitghost\SysInfo\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\Projects\zeitghost\SysInfo\bin\Debug\stdole.dll
+D:\Projects\zeitghost\SysInfo\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+D:\Projects\zeitghost\SysInfo\obj\x86\Debug\SysInfo.csprojResolveAssemblyReference.cache
+D:\Projects\zeitghost\SysInfo\obj\x86\Debug\SysInfo.Feed.resources
+D:\Projects\zeitghost\SysInfo\obj\x86\Debug\SysInfo.key_logger.resources
+D:\Projects\zeitghost\SysInfo\obj\x86\Debug\SysInfo.Main_Form.resources
+D:\Projects\zeitghost\SysInfo\obj\x86\Debug\SysInfo.Process_Info.resources
+D:\Projects\zeitghost\SysInfo\obj\x86\Debug\SysInfo.project.resources
+D:\Projects\zeitghost\SysInfo\obj\x86\Debug\SysInfo.Properties.Resources.resources
+D:\Projects\zeitghost\SysInfo\obj\x86\Debug\SysInfo.Setup.resources
+D:\Projects\zeitghost\SysInfo\obj\x86\Debug\SysInfo.csproj.GenerateResource.Cache
+>>>>>>> 55216086852b4660b3f139bdb4e64774b2658ea6
